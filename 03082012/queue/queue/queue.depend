@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1333848502 source:c:\users\nat\documents\dropbox\cs8\03082012\queue\queue\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"queue.h"
+
+1333849161 c:\users\nat\documents\dropbox\cs8\03082012\queue\queue\queue.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+

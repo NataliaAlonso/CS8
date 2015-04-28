@@ -1,0 +1,17 @@
+Asteroids
+	Recreate the game of asteroids
+	Linked list in order to keep positions
+Bank simulation
+	One program which does two things
+	6 tellers
+		1) each has its own line
+		2) one line
+	Customers randomly appear and get into line
+	Each customer will take a random amount of time
+	Tellers take breaks
+Texas Hold Em
+	Online gaming
+Recreate DOOM!
+	zorg (text based)
+	doom (graphics)
+	

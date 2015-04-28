@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1339457392 source:c:\users\natalia alonso\dropbox\cs8\zork\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"room.h"
+	"game.h"
+
+1339304819 c:\users\natalia alonso\dropbox\cs8\zork\room.h
+	<cstdlib>
+	<iostream>
+	<string>
+	<vector>
+
+1339457913 c:\users\natalia alonso\dropbox\cs8\zork\game.h
+	<cstdlib>
+	<string>
+	<vector>
+	"room.h"
+
+1339306279 source:c:\users\natalia alonso\dropbox\cs8\zork\room.cpp
+	"room.h"
+
+1339529812 source:c:\users\natalia alonso\dropbox\cs8\zork\game.cpp
+	"game.h"
+
+1338655857 c:\users\natalia alonso\dropbox\cs8\zork\item.h
+	<string>
+	<cstdlib>
+
+1338655765 source:c:\users\natalia alonso\dropbox\cs8\zork\item.cpp
+	"item.h"
+
+1338655596 source:c:\users\natalia alonso\dropbox\cs8\zork\player.cpp
+	"player.h"
+
+1338655275 c:\users\natalia alonso\dropbox\cs8\zork\player.h
+	<cstdlib>
+	<vector>
+	<string>
+	"item.h"
+
+1339304237 source:c:\users\nat\documents\dropbox\cs8\zork\item.cpp
+	"item.h"
+
+1339304237 c:\users\nat\documents\dropbox\cs8\zork\item.h
+	<string>
+	<cstdlib>
+
+1339259763 source:c:\users\nat\documents\dropbox\cs8\zork\player.cpp
+	"player.h"
+
+1339259763 c:\users\nat\documents\dropbox\cs8\zork\player.h
+	<cstdlib>
+	<vector>
+	<string>
+	<iostream>
+
+1339306279 source:c:\users\nat\documents\dropbox\cs8\zork\room.cpp
+	"room.h"
+
+1339304819 c:\users\nat\documents\dropbox\cs8\zork\room.h
+	<cstdlib>
+	<iostream>
+	<string>
+	<vector>
+
+1339457392 source:c:\users\nat\documents\dropbox\cs8\zork\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"room.h"
+	"game.h"
+
+1339457913 c:\users\nat\documents\dropbox\cs8\zork\game.h
+	<cstdlib>
+	<string>
+	<vector>
+	"room.h"
+
+1339460004 source:c:\users\nat\documents\dropbox\cs8\zork\game.cpp
+	"game.h"
+
+1339526212 source:c:\users\pates\dropbox\cs8\zork\game.cpp
+	"game.h"
+
+1339454313 c:\users\pates\dropbox\cs8\zork\game.h
+	<cstdlib>
+	<string>
+	<vector>
+	"room.h"
+
+1339301219 c:\users\pates\dropbox\cs8\zork\room.h
+	<cstdlib>
+	<iostream>
+	<string>
+	<vector>
+
+1339453792 source:c:\users\pates\dropbox\cs8\zork\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"room.h"
+	"game.h"
+
+1339302679 source:c:\users\pates\dropbox\cs8\zork\room.cpp
+	"room.h"
+

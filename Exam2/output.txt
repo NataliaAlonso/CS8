@@ -1,0 +1,3050 @@
+Approximate reading level: Grade 7.89474
+Number of words: 609
+Number of sentences: 57
+Number of paragraphs: 10
+
+Word: Ad
+Paragraph: 1
+Sentence: 1
+Ad appears 5 times.
+
+Word: Ad
+Paragraph: 2
+Sentence: 9
+Ad appears 5 times.
+
+Word: Ad
+Paragraph: 3
+Sentence: 16
+Ad appears 5 times.
+
+Word: Ad
+Paragraph: 9
+Sentence: 48
+Ad appears 5 times.
+
+Word: Ad
+Paragraph: 9
+Sentence: 49
+Ad appears 5 times.
+
+Word: Adipisicing
+Paragraph: 4
+Sentence: 20
+Adipisicing appears 5 times.
+
+Word: Adipisicing
+Paragraph: 4
+Sentence: 22
+Adipisicing appears 5 times.
+
+Word: Adipisicing
+Paragraph: 7
+Sentence: 35
+Adipisicing appears 5 times.
+
+Word: Adipisicing
+Paragraph: 7
+Sentence: 39
+Adipisicing appears 5 times.
+
+Word: Adipisicing
+Paragraph: 10
+Sentence: 53
+Adipisicing appears 5 times.
+
+Word: Aliqua
+Paragraph: 1
+Sentence: 2
+Aliqua appears 7 times.
+
+Word: Aliqua
+Paragraph: 2
+Sentence: 6
+Aliqua appears 7 times.
+
+Word: Aliqua
+Paragraph: 3
+Sentence: 16
+Aliqua appears 7 times.
+
+Word: Aliqua
+Paragraph: 6
+Sentence: 29
+Aliqua appears 7 times.
+
+Word: Aliqua
+Paragraph: 7
+Sentence: 35
+Aliqua appears 7 times.
+
+Word: Aliqua
+Paragraph: 9
+Sentence: 45
+Aliqua appears 7 times.
+
+Word: Aliqua
+Paragraph: 10
+Sentence: 56
+Aliqua appears 7 times.
+
+Word: Aliquip
+Paragraph: 3
+Sentence: 17
+Aliquip appears 2 times.
+
+Word: Aliquip
+Paragraph: 9
+Sentence: 46
+Aliquip appears 2 times.
+
+Word: Amet
+Paragraph: 1
+Sentence: 1
+Amet appears 1 times.
+
+Word: Andouille
+Paragraph: 1
+Sentence: 2
+Andouille appears 4 times.
+
+Word: Andouille
+Paragraph: 2
+Sentence: 7
+Andouille appears 4 times.
+
+Word: Andouille
+Paragraph: 4
+Sentence: 19
+Andouille appears 4 times.
+
+Word: Andouille
+Paragraph: 5
+Sentence: 28
+Andouille appears 4 times.
+
+Word: Anim
+Paragraph: 1
+Sentence: 1
+Anim appears 7 times.
+
+Word: Anim
+Paragraph: 3
+Sentence: 15
+Anim appears 7 times.
+
+Word: Anim
+Paragraph: 6
+Sentence: 29
+Anim appears 7 times.
+
+Word: Anim
+Paragraph: 8
+Sentence: 44
+Anim appears 7 times.
+
+Word: Anim
+Paragraph: 9
+Sentence: 46
+Anim appears 7 times.
+
+Word: Anim
+Paragraph: 9
+Sentence: 48
+Anim appears 7 times.
+
+Word: Anim
+Paragraph: 10
+Sentence: 54
+Anim appears 7 times.
+
+Word: Aute
+Paragraph: 3
+Sentence: 16
+Aute appears 6 times.
+
+Word: Aute
+Paragraph: 4
+Sentence: 20
+Aute appears 6 times.
+
+Word: Aute
+Paragraph: 6
+Sentence: 31
+Aute appears 6 times.
+
+Word: Aute
+Paragraph: 7
+Sentence: 40
+Aute appears 6 times.
+
+Word: Aute
+Paragraph: 9
+Sentence: 46
+Aute appears 6 times.
+
+Word: Aute
+Paragraph: 10
+Sentence: 56
+Aute appears 6 times.
+
+Word: Bacon
+Paragraph: 1
+Sentence: 1
+Bacon appears 6 times.
+
+Word: Bacon
+Paragraph: 1
+Sentence: 5
+Bacon appears 6 times.
+
+Word: Bacon
+Paragraph: 2
+Sentence: 6
+Bacon appears 6 times.
+
+Word: Bacon
+Paragraph: 2
+Sentence: 7
+Bacon appears 6 times.
+
+Word: Bacon
+Paragraph: 3
+Sentence: 15
+Bacon appears 6 times.
+
+Word: Bacon
+Paragraph: 5
+Sentence: 28
+Bacon appears 6 times.
+
+Word: Ball
+Paragraph: 2
+Sentence: 9
+Ball appears 6 times.
+
+Word: Ball
+Paragraph: 4
+Sentence: 23
+Ball appears 6 times.
+
+Word: Ball
+Paragraph: 4
+Sentence: 24
+Ball appears 6 times.
+
+Word: Ball
+Paragraph: 10
+Sentence: 50
+Ball appears 6 times.
+
+Word: Ball
+Paragraph: 10
+Sentence: 53
+Ball appears 6 times.
+
+Word: Ball
+Paragraph: 10
+Sentence: 56
+Ball appears 6 times.
+
+Word: Beef
+Paragraph: 1
+Sentence: 1
+Beef appears 11 times.
+
+Word: Beef
+Paragraph: 2
+Sentence: 7
+Beef appears 11 times.
+
+Word: Beef
+Paragraph: 3
+Sentence: 12
+Beef appears 11 times.
+
+Word: Beef
+Paragraph: 3
+Sentence: 15
+Beef appears 11 times.
+
+Word: Beef
+Paragraph: 4
+Sentence: 23
+Beef appears 11 times.
+
+Word: Beef
+Paragraph: 6
+Sentence: 31
+Beef appears 11 times.
+
+Word: Beef
+Paragraph: 7
+Sentence: 34
+Beef appears 11 times.
+
+Word: Beef
+Paragraph: 8
+Sentence: 43
+Beef appears 11 times.
+
+Word: Beef
+Paragraph: 9
+Sentence: 46
+Beef appears 11 times.
+
+Word: Beef
+Paragraph: 10
+Sentence: 55
+Beef appears 11 times.
+
+Word: Beef
+Paragraph: 10
+Sentence: 56
+Beef appears 11 times.
+
+Word: Belly
+Paragraph: 3
+Sentence: 15
+Belly appears 2 times.
+
+Word: Belly
+Paragraph: 5
+Sentence: 26
+Belly appears 2 times.
+
+Word: Biltong
+Paragraph: 2
+Sentence: 7
+Biltong appears 6 times.
+
+Word: Biltong
+Paragraph: 2
+Sentence: 10
+Biltong appears 6 times.
+
+Word: Biltong
+Paragraph: 4
+Sentence: 18
+Biltong appears 6 times.
+
+Word: Biltong
+Paragraph: 4
+Sentence: 22
+Biltong appears 6 times.
+
+Word: Biltong
+Paragraph: 8
+Sentence: 41
+Biltong appears 6 times.
+
+Word: Biltong
+Paragraph: 8
+Sentence: 44
+Biltong appears 6 times.
+
+Word: Boudin
+Paragraph: 2
+Sentence: 10
+Boudin appears 3 times.
+
+Word: Boudin
+Paragraph: 3
+Sentence: 13
+Boudin appears 3 times.
+
+Word: Boudin
+Paragraph: 7
+Sentence: 34
+Boudin appears 3 times.
+
+Word: Bresaola
+Paragraph: 3
+Sentence: 12
+Bresaola appears 6 times.
+
+Word: Bresaola
+Paragraph: 3
+Sentence: 16
+Bresaola appears 6 times.
+
+Word: Bresaola
+Paragraph: 6
+Sentence: 32
+Bresaola appears 6 times.
+
+Word: Bresaola
+Paragraph: 7
+Sentence: 38
+Bresaola appears 6 times.
+
+Word: Bresaola
+Paragraph: 9
+Sentence: 45
+Bresaola appears 6 times.
+
+Word: Bresaola
+Paragraph: 9
+Sentence: 48
+Bresaola appears 6 times.
+
+Word: Brisket
+Paragraph: 3
+Sentence: 12
+Brisket appears 4 times.
+
+Word: Brisket
+Paragraph: 4
+Sentence: 23
+Brisket appears 4 times.
+
+Word: Brisket
+Paragraph: 7
+Sentence: 39
+Brisket appears 4 times.
+
+Word: Brisket
+Paragraph: 9
+Sentence: 49
+Brisket appears 4 times.
+
+Word: Capicola
+Paragraph: 4
+Sentence: 21
+Capicola appears 2 times.
+
+Word: Capicola
+Paragraph: 10
+Sentence: 50
+Capicola appears 2 times.
+
+Word: Chicken
+Paragraph: 1
+Sentence: 2
+Chicken appears 5 times.
+
+Word: Chicken
+Paragraph: 3
+Sentence: 17
+Chicken appears 5 times.
+
+Word: Chicken
+Paragraph: 4
+Sentence: 18
+Chicken appears 5 times.
+
+Word: Chicken
+Paragraph: 4
+Sentence: 23
+Chicken appears 5 times.
+
+Word: Chicken
+Paragraph: 5
+Sentence: 28
+Chicken appears 5 times.
+
+Word: Chop
+Paragraph: 1
+Sentence: 1
+Chop appears 7 times.
+
+Word: Chop
+Paragraph: 3
+Sentence: 14
+Chop appears 7 times.
+
+Word: Chop
+Paragraph: 3
+Sentence: 15
+Chop appears 7 times.
+
+Word: Chop
+Paragraph: 7
+Sentence: 37
+Chop appears 7 times.
+
+Word: Chop
+Paragraph: 7
+Sentence: 40
+Chop appears 7 times.
+
+Word: Chop
+Paragraph: 9
+Sentence: 46
+Chop appears 7 times.
+
+Word: Chop
+Paragraph: 10
+Sentence: 54
+Chop appears 7 times.
+
+Word: Chuck
+Paragraph: 4
+Sentence: 21
+Chuck appears 4 times.
+
+Word: Chuck
+Paragraph: 6
+Sentence: 29
+Chuck appears 4 times.
+
+Word: Chuck
+Paragraph: 6
+Sentence: 30
+Chuck appears 4 times.
+
+Word: Chuck
+Paragraph: 10
+Sentence: 56
+Chuck appears 4 times.
+
+Word: Cillum
+Paragraph: 2
+Sentence: 6
+Cillum appears 6 times.
+
+Word: Cillum
+Paragraph: 4
+Sentence: 22
+Cillum appears 6 times.
+
+Word: Cillum
+Paragraph: 7
+Sentence: 35
+Cillum appears 6 times.
+
+Word: Cillum
+Paragraph: 7
+Sentence: 40
+Cillum appears 6 times.
+
+Word: Cillum
+Paragraph: 8
+Sentence: 41
+Cillum appears 6 times.
+
+Word: Cillum
+Paragraph: 9
+Sentence: 48
+Cillum appears 6 times.
+
+Word: Commodo
+Paragraph: 1
+Sentence: 2
+Commodo appears 6 times.
+
+Word: Commodo
+Paragraph: 3
+Sentence: 12
+Commodo appears 6 times.
+
+Word: Commodo
+Paragraph: 7
+Sentence: 37
+Commodo appears 6 times.
+
+Word: Commodo
+Paragraph: 8
+Sentence: 43
+Commodo appears 6 times.
+
+Word: Commodo
+Paragraph: 9
+Sentence: 49
+Commodo appears 6 times.
+
+Word: Commodo
+Paragraph: 10
+Sentence: 51
+Commodo appears 6 times.
+
+Word: Consectetur
+Paragraph: 2
+Sentence: 7
+Consectetur appears 3 times.
+
+Word: Consectetur
+Paragraph: 4
+Sentence: 23
+Consectetur appears 3 times.
+
+Word: Consectetur
+Paragraph: 7
+Sentence: 37
+Consectetur appears 3 times.
+
+Word: Consequat
+Paragraph: 2
+Sentence: 7
+Consequat appears 5 times.
+
+Word: Consequat
+Paragraph: 4
+Sentence: 21
+Consequat appears 5 times.
+
+Word: Consequat
+Paragraph: 5
+Sentence: 25
+Consequat appears 5 times.
+
+Word: Consequat
+Paragraph: 7
+Sentence: 34
+Consequat appears 5 times.
+
+Word: Consequat
+Paragraph: 9
+Sentence: 46
+Consequat appears 5 times.
+
+Word: Corned
+Paragraph: 1
+Sentence: 1
+Corned appears 2 times.
+
+Word: Corned
+Paragraph: 7
+Sentence: 34
+Corned appears 2 times.
+
+Word: Cow
+Paragraph: 8
+Sentence: 41
+Cow appears 1 times.
+
+Word: Culpa
+Paragraph: 1
+Sentence: 4
+Culpa appears 5 times.
+
+Word: Culpa
+Paragraph: 4
+Sentence: 23
+Culpa appears 5 times.
+
+Word: Culpa
+Paragraph: 4
+Sentence: 24
+Culpa appears 5 times.
+
+Word: Culpa
+Paragraph: 8
+Sentence: 43
+Culpa appears 5 times.
+
+Word: Culpa
+Paragraph: 10
+Sentence: 53
+Culpa appears 5 times.
+
+Word: Cupidatat
+Paragraph: 2
+Sentence: 10
+Cupidatat appears 4 times.
+
+Word: Cupidatat
+Paragraph: 6
+Sentence: 30
+Cupidatat appears 4 times.
+
+Word: Cupidatat
+Paragraph: 10
+Sentence: 54
+Cupidatat appears 4 times.
+
+Word: Cupidatat
+Paragraph: 10
+Sentence: 55
+Cupidatat appears 4 times.
+
+Word: Deserunt
+Paragraph: 1
+Sentence: 3
+Deserunt appears 6 times.
+
+Word: Deserunt
+Paragraph: 2
+Sentence: 10
+Deserunt appears 6 times.
+
+Word: Deserunt
+Paragraph: 4
+Sentence: 21
+Deserunt appears 6 times.
+
+Word: Deserunt
+Paragraph: 6
+Sentence: 32
+Deserunt appears 6 times.
+
+Word: Deserunt
+Paragraph: 7
+Sentence: 38
+Deserunt appears 6 times.
+
+Word: Deserunt
+Paragraph: 9
+Sentence: 49
+Deserunt appears 6 times.
+
+Word: Do
+Paragraph: 4
+Sentence: 19
+Do appears 5 times.
+
+Word: Do
+Paragraph: 4
+Sentence: 23
+Do appears 5 times.
+
+Word: Do
+Paragraph: 7
+Sentence: 36
+Do appears 5 times.
+
+Word: Do
+Paragraph: 9
+Sentence: 45
+Do appears 5 times.
+
+Word: Do
+Paragraph: 10
+Sentence: 56
+Do appears 5 times.
+
+Word: Dolor
+Paragraph: 1
+Sentence: 1
+Dolor appears 4 times.
+
+Word: Dolor
+Paragraph: 2
+Sentence: 6
+Dolor appears 4 times.
+
+Word: Dolor
+Paragraph: 6
+Sentence: 32
+Dolor appears 4 times.
+
+Word: Dolor
+Paragraph: 6
+Sentence: 33
+Dolor appears 4 times.
+
+Word: Dolore
+Paragraph: 1
+Sentence: 3
+Dolore appears 7 times.
+
+Word: Dolore
+Paragraph: 2
+Sentence: 10
+Dolore appears 7 times.
+
+Word: Dolore
+Paragraph: 4
+Sentence: 24
+Dolore appears 7 times.
+
+Word: Dolore
+Paragraph: 5
+Sentence: 27
+Dolore appears 7 times.
+
+Word: Dolore
+Paragraph: 8
+Sentence: 43
+Dolore appears 7 times.
+
+Word: Dolore
+Paragraph: 9
+Sentence: 47
+Dolore appears 7 times.
+
+Word: Dolore
+Paragraph: 10
+Sentence: 54
+Dolore appears 7 times.
+
+Word: Drumstick
+Paragraph: 1
+Sentence: 2
+Drumstick appears 5 times.
+
+Word: Drumstick
+Paragraph: 3
+Sentence: 16
+Drumstick appears 5 times.
+
+Word: Drumstick
+Paragraph: 4
+Sentence: 18
+Drumstick appears 5 times.
+
+Word: Drumstick
+Paragraph: 10
+Sentence: 51
+Drumstick appears 5 times.
+
+Word: Drumstick
+Paragraph: 10
+Sentence: 56
+Drumstick appears 5 times.
+
+Word: Duis
+Paragraph: 2
+Sentence: 7
+Duis appears 3 times.
+
+Word: Duis
+Paragraph: 7
+Sentence: 37
+Duis appears 3 times.
+
+Word: Duis
+Paragraph: 7
+Sentence: 40
+Duis appears 3 times.
+
+Word: Ea
+Paragraph: 1
+Sentence: 4
+Ea appears 5 times.
+
+Word: Ea
+Paragraph: 3
+Sentence: 11
+Ea appears 5 times.
+
+Word: Ea
+Paragraph: 4
+Sentence: 21
+Ea appears 5 times.
+
+Word: Ea
+Paragraph: 9
+Sentence: 49
+Ea appears 5 times.
+
+Word: Ea
+Paragraph: 10
+Sentence: 51
+Ea appears 5 times.
+
+Word: Eiusmod
+Paragraph: 1
+Sentence: 2
+Eiusmod appears 4 times.
+
+Word: Eiusmod
+Paragraph: 2
+Sentence: 8
+Eiusmod appears 4 times.
+
+Word: Eiusmod
+Paragraph: 5
+Sentence: 26
+Eiusmod appears 4 times.
+
+Word: Eiusmod
+Paragraph: 8
+Sentence: 44
+Eiusmod appears 4 times.
+
+Word: Elit
+Paragraph: 3
+Sentence: 15
+Elit appears 6 times.
+
+Word: Elit
+Paragraph: 5
+Sentence: 27
+Elit appears 6 times.
+
+Word: Elit
+Paragraph: 7
+Sentence: 37
+Elit appears 6 times.
+
+Word: Elit
+Paragraph: 7
+Sentence: 38
+Elit appears 6 times.
+
+Word: Elit
+Paragraph: 8
+Sentence: 41
+Elit appears 6 times.
+
+Word: Elit
+Paragraph: 10
+Sentence: 54
+Elit appears 6 times.
+
+Word: Enim
+Paragraph: 2
+Sentence: 7
+Enim appears 4 times.
+
+Word: Enim
+Paragraph: 3
+Sentence: 11
+Enim appears 4 times.
+
+Word: Enim
+Paragraph: 7
+Sentence: 36
+Enim appears 4 times.
+
+Word: Enim
+Paragraph: 10
+Sentence: 54
+Enim appears 4 times.
+
+Word: Esse
+Paragraph: 3
+Sentence: 13
+Esse appears 3 times.
+
+Word: Esse
+Paragraph: 7
+Sentence: 39
+Esse appears 3 times.
+
+Word: Esse
+Paragraph: 9
+Sentence: 49
+Esse appears 3 times.
+
+Word: Est
+Paragraph: 1
+Sentence: 2
+Est appears 8 times.
+
+Word: Est
+Paragraph: 2
+Sentence: 10
+Est appears 8 times.
+
+Word: Est
+Paragraph: 3
+Sentence: 11
+Est appears 8 times.
+
+Word: Est
+Paragraph: 3
+Sentence: 15
+Est appears 8 times.
+
+Word: Est
+Paragraph: 4
+Sentence: 22
+Est appears 8 times.
+
+Word: Est
+Paragraph: 6
+Sentence: 33
+Est appears 8 times.
+
+Word: Est
+Paragraph: 7
+Sentence: 35
+Est appears 8 times.
+
+Word: Est
+Paragraph: 9
+Sentence: 48
+Est appears 8 times.
+
+Word: Et
+Paragraph: 2
+Sentence: 10
+Et appears 4 times.
+
+Word: Et
+Paragraph: 5
+Sentence: 27
+Et appears 4 times.
+
+Word: Et
+Paragraph: 7
+Sentence: 37
+Et appears 4 times.
+
+Word: Et
+Paragraph: 7
+Sentence: 40
+Et appears 4 times.
+
+Word: Eu
+Paragraph: 2
+Sentence: 7
+Eu appears 5 times.
+
+Word: Eu
+Paragraph: 3
+Sentence: 11
+Eu appears 5 times.
+
+Word: Eu
+Paragraph: 5
+Sentence: 27
+Eu appears 5 times.
+
+Word: Eu
+Paragraph: 7
+Sentence: 36
+Eu appears 5 times.
+
+Word: Eu
+Paragraph: 9
+Sentence: 48
+Eu appears 5 times.
+
+Word: Ex
+Paragraph: 1
+Sentence: 3
+Ex appears 6 times.
+
+Word: Ex
+Paragraph: 1
+Sentence: 4
+Ex appears 6 times.
+
+Word: Ex
+Paragraph: 4
+Sentence: 20
+Ex appears 6 times.
+
+Word: Ex
+Paragraph: 4
+Sentence: 22
+Ex appears 6 times.
+
+Word: Ex
+Paragraph: 8
+Sentence: 44
+Ex appears 6 times.
+
+Word: Ex
+Paragraph: 10
+Sentence: 50
+Ex appears 6 times.
+
+Word: Excepteur
+Paragraph: 5
+Sentence: 27
+Excepteur appears 6 times.
+
+Word: Excepteur
+Paragraph: 7
+Sentence: 34
+Excepteur appears 6 times.
+
+Word: Excepteur
+Paragraph: 7
+Sentence: 36
+Excepteur appears 6 times.
+
+Word: Excepteur
+Paragraph: 7
+Sentence: 40
+Excepteur appears 6 times.
+
+Word: Excepteur
+Paragraph: 10
+Sentence: 51
+Excepteur appears 6 times.
+
+Word: Excepteur
+Paragraph: 10
+Sentence: 52
+Excepteur appears 6 times.
+
+Word: Exercitation
+Paragraph: 1
+Sentence: 3
+Exercitation appears 5 times.
+
+Word: Exercitation
+Paragraph: 4
+Sentence: 18
+Exercitation appears 5 times.
+
+Word: Exercitation
+Paragraph: 4
+Sentence: 20
+Exercitation appears 5 times.
+
+Word: Exercitation
+Paragraph: 6
+Sentence: 31
+Exercitation appears 5 times.
+
+Word: Exercitation
+Paragraph: 8
+Sentence: 41
+Exercitation appears 5 times.
+
+Word: Fatback
+Paragraph: 4
+Sentence: 18
+Fatback appears 5 times.
+
+Word: Fatback
+Paragraph: 4
+Sentence: 22
+Fatback appears 5 times.
+
+Word: Fatback
+Paragraph: 7
+Sentence: 38
+Fatback appears 5 times.
+
+Word: Fatback
+Paragraph: 9
+Sentence: 46
+Fatback appears 5 times.
+
+Word: Fatback
+Paragraph: 10
+Sentence: 56
+Fatback appears 5 times.
+
+Word: Filet
+Paragraph: 4
+Sentence: 21
+Filet appears 3 times.
+
+Word: Filet
+Paragraph: 6
+Sentence: 29
+Filet appears 3 times.
+
+Word: Filet
+Paragraph: 9
+Sentence: 48
+Filet appears 3 times.
+
+Word: Flank
+Paragraph: 2
+Sentence: 9
+Flank appears 8 times.
+
+Word: Flank
+Paragraph: 3
+Sentence: 12
+Flank appears 8 times.
+
+Word: Flank
+Paragraph: 3
+Sentence: 15
+Flank appears 8 times.
+
+Word: Flank
+Paragraph: 7
+Sentence: 39
+Flank appears 8 times.
+
+Word: Flank
+Paragraph: 8
+Sentence: 44
+Flank appears 8 times.
+
+Word: Flank
+Paragraph: 9
+Sentence: 47
+Flank appears 8 times.
+
+Word: Flank
+Paragraph: 9
+Sentence: 49
+Flank appears 8 times.
+
+Word: Flank
+Paragraph: 10
+Sentence: 50
+Flank appears 8 times.
+
+Word: Frankfurter
+Paragraph: 1
+Sentence: 3
+Frankfurter appears 9 times.
+
+Word: Frankfurter
+Paragraph: 3
+Sentence: 16
+Frankfurter appears 9 times.
+
+Word: Frankfurter
+Paragraph: 4
+Sentence: 22
+Frankfurter appears 9 times.
+
+Word: Frankfurter
+Paragraph: 5
+Sentence: 27
+Frankfurter appears 9 times.
+
+Word: Frankfurter
+Paragraph: 6
+Sentence: 30
+Frankfurter appears 9 times.
+
+Word: Frankfurter
+Paragraph: 7
+Sentence: 39
+Frankfurter appears 9 times.
+
+Word: Frankfurter
+Paragraph: 8
+Sentence: 43
+Frankfurter appears 9 times.
+
+Word: Frankfurter
+Paragraph: 9
+Sentence: 45
+Frankfurter appears 9 times.
+
+Word: Frankfurter
+Paragraph: 9
+Sentence: 46
+Frankfurter appears 9 times.
+
+Word: Fugiat
+Paragraph: 3
+Sentence: 14
+Fugiat appears 5 times.
+
+Word: Fugiat
+Paragraph: 3
+Sentence: 15
+Fugiat appears 5 times.
+
+Word: Fugiat
+Paragraph: 4
+Sentence: 24
+Fugiat appears 5 times.
+
+Word: Fugiat
+Paragraph: 7
+Sentence: 37
+Fugiat appears 5 times.
+
+Word: Fugiat
+Paragraph: 7
+Sentence: 40
+Fugiat appears 5 times.
+
+Word: Ground
+Paragraph: 1
+Sentence: 3
+Ground appears 5 times.
+
+Word: Ground
+Paragraph: 2
+Sentence: 9
+Ground appears 5 times.
+
+Word: Ground
+Paragraph: 4
+Sentence: 19
+Ground appears 5 times.
+
+Word: Ground
+Paragraph: 4
+Sentence: 20
+Ground appears 5 times.
+
+Word: Ground
+Paragraph: 10
+Sentence: 55
+Ground appears 5 times.
+
+Word: Ham
+Paragraph: 3
+Sentence: 12
+Ham appears 8 times.
+
+Word: Ham
+Paragraph: 3
+Sentence: 13
+Ham appears 8 times.
+
+Word: Ham
+Paragraph: 3
+Sentence: 15
+Ham appears 8 times.
+
+Word: Ham
+Paragraph: 4
+Sentence: 19
+Ham appears 8 times.
+
+Word: Ham
+Paragraph: 6
+Sentence: 30
+Ham appears 8 times.
+
+Word: Ham
+Paragraph: 6
+Sentence: 33
+Ham appears 8 times.
+
+Word: Ham
+Paragraph: 7
+Sentence: 40
+Ham appears 8 times.
+
+Word: Ham
+Paragraph: 9
+Sentence: 49
+Ham appears 8 times.
+
+Word: Hamburger
+Paragraph: 2
+Sentence: 6
+Hamburger appears 6 times.
+
+Word: Hamburger
+Paragraph: 4
+Sentence: 19
+Hamburger appears 6 times.
+
+Word: Hamburger
+Paragraph: 6
+Sentence: 33
+Hamburger appears 6 times.
+
+Word: Hamburger
+Paragraph: 8
+Sentence: 43
+Hamburger appears 6 times.
+
+Word: Hamburger
+Paragraph: 9
+Sentence: 47
+Hamburger appears 6 times.
+
+Word: Hamburger
+Paragraph: 10
+Sentence: 56
+Hamburger appears 6 times.
+
+Word: Hock
+Paragraph: 3
+Sentence: 13
+Hock appears 5 times.
+
+Word: Hock
+Paragraph: 3
+Sentence: 15
+Hock appears 5 times.
+
+Word: Hock
+Paragraph: 4
+Sentence: 19
+Hock appears 5 times.
+
+Word: Hock
+Paragraph: 6
+Sentence: 30
+Hock appears 5 times.
+
+Word: Hock
+Paragraph: 9
+Sentence: 49
+Hock appears 5 times.
+
+Word: Id
+Paragraph: 8
+Sentence: 43
+Id appears 2 times.
+
+Word: Id
+Paragraph: 10
+Sentence: 51
+Id appears 2 times.
+
+Word: In
+Paragraph: 3
+Sentence: 15
+In appears 8 times.
+
+Word: In
+Paragraph: 4
+Sentence: 23
+In appears 8 times.
+
+Word: In
+Paragraph: 6
+Sentence: 31
+In appears 8 times.
+
+Word: In
+Paragraph: 6
+Sentence: 31
+In appears 8 times.
+
+Word: In
+Paragraph: 7
+Sentence: 34
+In appears 8 times.
+
+Word: In
+Paragraph: 7
+Sentence: 38
+In appears 8 times.
+
+Word: In
+Paragraph: 9
+Sentence: 48
+In appears 8 times.
+
+Word: In
+Paragraph: 9
+Sentence: 49
+In appears 8 times.
+
+Word: Incididunt
+Paragraph: 1
+Sentence: 2
+Incididunt appears 5 times.
+
+Word: Incididunt
+Paragraph: 7
+Sentence: 40
+Incididunt appears 5 times.
+
+Word: Incididunt
+Paragraph: 8
+Sentence: 41
+Incididunt appears 5 times.
+
+Word: Incididunt
+Paragraph: 8
+Sentence: 44
+Incididunt appears 5 times.
+
+Word: Incididunt
+Paragraph: 10
+Sentence: 53
+Incididunt appears 5 times.
+
+Word: Ipsum
+Paragraph: 1
+Sentence: 1
+Ipsum appears 1 times.
+
+Word: Irure
+Paragraph: 4
+Sentence: 18
+Irure appears 3 times.
+
+Word: Irure
+Paragraph: 4
+Sentence: 21
+Irure appears 3 times.
+
+Word: Irure
+Paragraph: 8
+Sentence: 44
+Irure appears 3 times.
+
+Word: Jerky
+Paragraph: 3
+Sentence: 12
+Jerky appears 7 times.
+
+Word: Jerky
+Paragraph: 4
+Sentence: 18
+Jerky appears 7 times.
+
+Word: Jerky
+Paragraph: 4
+Sentence: 20
+Jerky appears 7 times.
+
+Word: Jerky
+Paragraph: 6
+Sentence: 32
+Jerky appears 7 times.
+
+Word: Jerky
+Paragraph: 7
+Sentence: 34
+Jerky appears 7 times.
+
+Word: Jerky
+Paragraph: 9
+Sentence: 45
+Jerky appears 7 times.
+
+Word: Jerky
+Paragraph: 9
+Sentence: 47
+Jerky appears 7 times.
+
+Word: Jowl
+Paragraph: 1
+Sentence: 2
+Jowl appears 3 times.
+
+Word: Jowl
+Paragraph: 5
+Sentence: 25
+Jowl appears 3 times.
+
+Word: Jowl
+Paragraph: 9
+Sentence: 46
+Jowl appears 3 times.
+
+Word: Kielbasa
+Paragraph: 5
+Sentence: 26
+Kielbasa appears 5 times.
+
+Word: Kielbasa
+Paragraph: 6
+Sentence: 32
+Kielbasa appears 5 times.
+
+Word: Kielbasa
+Paragraph: 7
+Sentence: 35
+Kielbasa appears 5 times.
+
+Word: Kielbasa
+Paragraph: 8
+Sentence: 41
+Kielbasa appears 5 times.
+
+Word: Kielbasa
+Paragraph: 8
+Sentence: 42
+Kielbasa appears 5 times.
+
+Word: Labore
+Paragraph: 3
+Sentence: 15
+Labore appears 2 times.
+
+Word: Labore
+Paragraph: 6
+Sentence: 33
+Labore appears 2 times.
+
+Word: Laboris
+Paragraph: 1
+Sentence: 2
+Laboris appears 5 times.
+
+Word: Laboris
+Paragraph: 3
+Sentence: 15
+Laboris appears 5 times.
+
+Word: Laboris
+Paragraph: 4
+Sentence: 24
+Laboris appears 5 times.
+
+Word: Laboris
+Paragraph: 5
+Sentence: 28
+Laboris appears 5 times.
+
+Word: Laboris
+Paragraph: 9
+Sentence: 45
+Laboris appears 5 times.
+
+Word: Laborum
+Paragraph: 4
+Sentence: 20
+Laborum appears 2 times.
+
+Word: Laborum
+Paragraph: 10
+Sentence: 54
+Laborum appears 2 times.
+
+Word: Leberkase
+Paragraph: 2
+Sentence: 6
+Leberkase appears 3 times.
+
+Word: Leberkase
+Paragraph: 3
+Sentence: 12
+Leberkase appears 3 times.
+
+Word: Leberkase
+Paragraph: 8
+Sentence: 41
+Leberkase appears 3 times.
+
+Word: Loin
+Paragraph: 1
+Sentence: 5
+Loin appears 9 times.
+
+Word: Loin
+Paragraph: 2
+Sentence: 7
+Loin appears 9 times.
+
+Word: Loin
+Paragraph: 4
+Sentence: 20
+Loin appears 9 times.
+
+Word: Loin
+Paragraph: 5
+Sentence: 26
+Loin appears 9 times.
+
+Word: Loin
+Paragraph: 7
+Sentence: 36
+Loin appears 9 times.
+
+Word: Loin
+Paragraph: 7
+Sentence: 37
+Loin appears 9 times.
+
+Word: Loin
+Paragraph: 8
+Sentence: 41
+Loin appears 9 times.
+
+Word: Loin
+Paragraph: 8
+Sentence: 42
+Loin appears 9 times.
+
+Word: Loin
+Paragraph: 9
+Sentence: 47
+Loin appears 9 times.
+
+Word: Magna
+Paragraph: 1
+Sentence: 5
+Magna appears 2 times.
+
+Word: Magna
+Paragraph: 8
+Sentence: 43
+Magna appears 2 times.
+
+Word: Meatball
+Paragraph: 2
+Sentence: 6
+Meatball appears 6 times.
+
+Word: Meatball
+Paragraph: 2
+Sentence: 9
+Meatball appears 6 times.
+
+Word: Meatball
+Paragraph: 3
+Sentence: 12
+Meatball appears 6 times.
+
+Word: Meatball
+Paragraph: 4
+Sentence: 21
+Meatball appears 6 times.
+
+Word: Meatball
+Paragraph: 5
+Sentence: 28
+Meatball appears 6 times.
+
+Word: Meatball
+Paragraph: 6
+Sentence: 32
+Meatball appears 6 times.
+
+Word: Meatloaf
+Paragraph: 2
+Sentence: 6
+Meatloaf appears 6 times.
+
+Word: Meatloaf
+Paragraph: 2
+Sentence: 10
+Meatloaf appears 6 times.
+
+Word: Meatloaf
+Paragraph: 3
+Sentence: 12
+Meatloaf appears 6 times.
+
+Word: Meatloaf
+Paragraph: 4
+Sentence: 22
+Meatloaf appears 6 times.
+
+Word: Meatloaf
+Paragraph: 6
+Sentence: 33
+Meatloaf appears 6 times.
+
+Word: Meatloaf
+Paragraph: 7
+Sentence: 40
+Meatloaf appears 6 times.
+
+Word: Mignon
+Paragraph: 4
+Sentence: 21
+Mignon appears 3 times.
+
+Word: Mignon
+Paragraph: 6
+Sentence: 29
+Mignon appears 3 times.
+
+Word: Mignon
+Paragraph: 9
+Sentence: 48
+Mignon appears 3 times.
+
+Word: Minim
+Paragraph: 1
+Sentence: 3
+Minim appears 3 times.
+
+Word: Minim
+Paragraph: 2
+Sentence: 9
+Minim appears 3 times.
+
+Word: Minim
+Paragraph: 10
+Sentence: 52
+Minim appears 3 times.
+
+Word: Mollit
+Paragraph: 4
+Sentence: 21
+Mollit appears 4 times.
+
+Word: Mollit
+Paragraph: 4
+Sentence: 22
+Mollit appears 4 times.
+
+Word: Mollit
+Paragraph: 6
+Sentence: 32
+Mollit appears 4 times.
+
+Word: Mollit
+Paragraph: 8
+Sentence: 43
+Mollit appears 4 times.
+
+Word: Nisi
+Paragraph: 2
+Sentence: 10
+Nisi appears 7 times.
+
+Word: Nisi
+Paragraph: 5
+Sentence: 25
+Nisi appears 7 times.
+
+Word: Nisi
+Paragraph: 6
+Sentence: 29
+Nisi appears 7 times.
+
+Word: Nisi
+Paragraph: 7
+Sentence: 34
+Nisi appears 7 times.
+
+Word: Nisi
+Paragraph: 9
+Sentence: 45
+Nisi appears 7 times.
+
+Word: Nisi
+Paragraph: 9
+Sentence: 48
+Nisi appears 7 times.
+
+Word: Nisi
+Paragraph: 10
+Sentence: 54
+Nisi appears 7 times.
+
+Word: Non
+Paragraph: 2
+Sentence: 10
+Non appears 3 times.
+
+Word: Non
+Paragraph: 7
+Sentence: 37
+Non appears 3 times.
+
+Word: Non
+Paragraph: 10
+Sentence: 50
+Non appears 3 times.
+
+Word: Nostrud
+Paragraph: 1
+Sentence: 2
+Nostrud appears 5 times.
+
+Word: Nostrud
+Paragraph: 1
+Sentence: 5
+Nostrud appears 5 times.
+
+Word: Nostrud
+Paragraph: 2
+Sentence: 7
+Nostrud appears 5 times.
+
+Word: Nostrud
+Paragraph: 3
+Sentence: 16
+Nostrud appears 5 times.
+
+Word: Nostrud
+Paragraph: 8
+Sentence: 44
+Nostrud appears 5 times.
+
+Word: Nulla
+Paragraph: 2
+Sentence: 7
+Nulla appears 4 times.
+
+Word: Nulla
+Paragraph: 3
+Sentence: 12
+Nulla appears 4 times.
+
+Word: Nulla
+Paragraph: 3
+Sentence: 17
+Nulla appears 4 times.
+
+Word: Nulla
+Paragraph: 6
+Sentence: 31
+Nulla appears 4 times.
+
+Word: Occaecat
+Paragraph: 2
+Sentence: 10
+Occaecat appears 7 times.
+
+Word: Occaecat
+Paragraph: 3
+Sentence: 12
+Occaecat appears 7 times.
+
+Word: Occaecat
+Paragraph: 4
+Sentence: 24
+Occaecat appears 7 times.
+
+Word: Occaecat
+Paragraph: 5
+Sentence: 27
+Occaecat appears 7 times.
+
+Word: Occaecat
+Paragraph: 6
+Sentence: 32
+Occaecat appears 7 times.
+
+Word: Occaecat
+Paragraph: 8
+Sentence: 42
+Occaecat appears 7 times.
+
+Word: Occaecat
+Paragraph: 9
+Sentence: 49
+Occaecat appears 7 times.
+
+Word: Officia
+Paragraph: 2
+Sentence: 7
+Officia appears 5 times.
+
+Word: Officia
+Paragraph: 2
+Sentence: 9
+Officia appears 5 times.
+
+Word: Officia
+Paragraph: 3
+Sentence: 12
+Officia appears 5 times.
+
+Word: Officia
+Paragraph: 5
+Sentence: 26
+Officia appears 5 times.
+
+Word: Officia
+Paragraph: 6
+Sentence: 30
+Officia appears 5 times.
+
+Word: Pancetta
+Paragraph: 2
+Sentence: 8
+Pancetta appears 2 times.
+
+Word: Pancetta
+Paragraph: 4
+Sentence: 20
+Pancetta appears 2 times.
+
+Word: Pariatur
+Paragraph: 6
+Sentence: 33
+Pariatur appears 2 times.
+
+Word: Pariatur
+Paragraph: 8
+Sentence: 43
+Pariatur appears 2 times.
+
+Word: Pastrami
+Paragraph: 1
+Sentence: 3
+Pastrami appears 8 times.
+
+Word: Pastrami
+Paragraph: 1
+Sentence: 4
+Pastrami appears 8 times.
+
+Word: Pastrami
+Paragraph: 2
+Sentence: 6
+Pastrami appears 8 times.
+
+Word: Pastrami
+Paragraph: 2
+Sentence: 10
+Pastrami appears 8 times.
+
+Word: Pastrami
+Paragraph: 4
+Sentence: 24
+Pastrami appears 8 times.
+
+Word: Pastrami
+Paragraph: 5
+Sentence: 27
+Pastrami appears 8 times.
+
+Word: Pastrami
+Paragraph: 9
+Sentence: 49
+Pastrami appears 8 times.
+
+Word: Pastrami
+Paragraph: 10
+Sentence: 54
+Pastrami appears 8 times.
+
+Word: Pig
+Paragraph: 8
+Sentence: 41
+Pig appears 2 times.
+
+Word: Pig
+Paragraph: 10
+Sentence: 54
+Pig appears 2 times.
+
+Word: Pork
+Paragraph: 1
+Sentence: 1
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 1
+Sentence: 3
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 3
+Sentence: 14
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 3
+Sentence: 15
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 3
+Sentence: 15
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 4
+Sentence: 20
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 4
+Sentence: 24
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 5
+Sentence: 26
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 5
+Sentence: 26
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 7
+Sentence: 34
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 7
+Sentence: 36
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 7
+Sentence: 37
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 7
+Sentence: 40
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 8
+Sentence: 41
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 9
+Sentence: 45
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 9
+Sentence: 46
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 9
+Sentence: 47
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 10
+Sentence: 52
+Pork appears 19 times.
+
+Word: Pork
+Paragraph: 10
+Sentence: 54
+Pork appears 19 times.
+
+Word: Proident
+Paragraph: 5
+Sentence: 28
+Proident appears 1 times.
+
+Word: Prosciutto
+Paragraph: 1
+Sentence: 2
+Prosciutto appears 6 times.
+
+Word: Prosciutto
+Paragraph: 5
+Sentence: 25
+Prosciutto appears 6 times.
+
+Word: Prosciutto
+Paragraph: 6
+Sentence: 30
+Prosciutto appears 6 times.
+
+Word: Prosciutto
+Paragraph: 6
+Sentence: 32
+Prosciutto appears 6 times.
+
+Word: Prosciutto
+Paragraph: 9
+Sentence: 46
+Prosciutto appears 6 times.
+
+Word: Prosciutto
+Paragraph: 9
+Sentence: 47
+Prosciutto appears 6 times.
+
+Word: Qui
+Paragraph: 4
+Sentence: 23
+Qui appears 5 times.
+
+Word: Qui
+Paragraph: 5
+Sentence: 26
+Qui appears 5 times.
+
+Word: Qui
+Paragraph: 7
+Sentence: 34
+Qui appears 5 times.
+
+Word: Qui
+Paragraph: 9
+Sentence: 48
+Qui appears 5 times.
+
+Word: Qui
+Paragraph: 10
+Sentence: 53
+Qui appears 5 times.
+
+Word: Quis
+Paragraph: 4
+Sentence: 23
+Quis appears 4 times.
+
+Word: Quis
+Paragraph: 7
+Sentence: 35
+Quis appears 4 times.
+
+Word: Quis
+Paragraph: 10
+Sentence: 50
+Quis appears 4 times.
+
+Word: Quis
+Paragraph: 10
+Sentence: 54
+Quis appears 4 times.
+
+Word: Reprehenderit
+Paragraph: 7
+Sentence: 40
+Reprehenderit appears 1 times.
+
+Word: Ribeye
+Paragraph: 1
+Sentence: 5
+Ribeye appears 5 times.
+
+Word: Ribeye
+Paragraph: 3
+Sentence: 12
+Ribeye appears 5 times.
+
+Word: Ribeye
+Paragraph: 3
+Sentence: 16
+Ribeye appears 5 times.
+
+Word: Ribeye
+Paragraph: 9
+Sentence: 47
+Ribeye appears 5 times.
+
+Word: Ribeye
+Paragraph: 10
+Sentence: 52
+Ribeye appears 5 times.
+
+Word: Ribs
+Paragraph: 1
+Sentence: 4
+Ribs appears 16 times.
+
+Word: Ribs
+Paragraph: 1
+Sentence: 5
+Ribs appears 16 times.
+
+Word: Ribs
+Paragraph: 2
+Sentence: 7
+Ribs appears 16 times.
+
+Word: Ribs
+Paragraph: 2
+Sentence: 10
+Ribs appears 16 times.
+
+Word: Ribs
+Paragraph: 4
+Sentence: 18
+Ribs appears 16 times.
+
+Word: Ribs
+Paragraph: 4
+Sentence: 21
+Ribs appears 16 times.
+
+Word: Ribs
+Paragraph: 5
+Sentence: 28
+Ribs appears 16 times.
+
+Word: Ribs
+Paragraph: 6
+Sentence: 31
+Ribs appears 16 times.
+
+Word: Ribs
+Paragraph: 7
+Sentence: 34
+Ribs appears 16 times.
+
+Word: Ribs
+Paragraph: 7
+Sentence: 35
+Ribs appears 16 times.
+
+Word: Ribs
+Paragraph: 8
+Sentence: 42
+Ribs appears 16 times.
+
+Word: Ribs
+Paragraph: 8
+Sentence: 43
+Ribs appears 16 times.
+
+Word: Ribs
+Paragraph: 9
+Sentence: 46
+Ribs appears 16 times.
+
+Word: Ribs
+Paragraph: 9
+Sentence: 46
+Ribs appears 16 times.
+
+Word: Ribs
+Paragraph: 10
+Sentence: 55
+Ribs appears 16 times.
+
+Word: Ribs
+Paragraph: 10
+Sentence: 56
+Ribs appears 16 times.
+
+Word: Round
+Paragraph: 1
+Sentence: 3
+Round appears 5 times.
+
+Word: Round
+Paragraph: 2
+Sentence: 9
+Round appears 5 times.
+
+Word: Round
+Paragraph: 4
+Sentence: 19
+Round appears 5 times.
+
+Word: Round
+Paragraph: 4
+Sentence: 20
+Round appears 5 times.
+
+Word: Round
+Paragraph: 10
+Sentence: 55
+Round appears 5 times.
+
+Word: Rump
+Paragraph: 6
+Sentence: 29
+Rump appears 5 times.
+
+Word: Rump
+Paragraph: 7
+Sentence: 40
+Rump appears 5 times.
+
+Word: Rump
+Paragraph: 8
+Sentence: 42
+Rump appears 5 times.
+
+Word: Rump
+Paragraph: 9
+Sentence: 47
+Rump appears 5 times.
+
+Word: Rump
+Paragraph: 10
+Sentence: 54
+Rump appears 5 times.
+
+Word: Salami
+Paragraph: 1
+Sentence: 3
+Salami appears 5 times.
+
+Word: Salami
+Paragraph: 3
+Sentence: 13
+Salami appears 5 times.
+
+Word: Salami
+Paragraph: 4
+Sentence: 19
+Salami appears 5 times.
+
+Word: Salami
+Paragraph: 4
+Sentence: 24
+Salami appears 5 times.
+
+Word: Salami
+Paragraph: 10
+Sentence: 50
+Salami appears 5 times.
+
+Word: Sausage
+Paragraph: 3
+Sentence: 15
+Sausage appears 3 times.
+
+Word: Sausage
+Paragraph: 6
+Sentence: 33
+Sausage appears 3 times.
+
+Word: Sausage
+Paragraph: 9
+Sentence: 47
+Sausage appears 3 times.
+
+Word: Sed
+Paragraph: 1
+Sentence: 2
+Sed appears 4 times.
+
+Word: Sed
+Paragraph: 6
+Sentence: 32
+Sed appears 4 times.
+
+Word: Sed
+Paragraph: 7
+Sentence: 34
+Sed appears 4 times.
+
+Word: Sed
+Paragraph: 7
+Sentence: 35
+Sed appears 4 times.
+
+Word: Shank
+Paragraph: 4
+Sentence: 18
+Shank appears 4 times.
+
+Word: Shank
+Paragraph: 7
+Sentence: 34
+Shank appears 4 times.
+
+Word: Shank
+Paragraph: 7
+Sentence: 36
+Shank appears 4 times.
+
+Word: Shank
+Paragraph: 10
+Sentence: 53
+Shank appears 4 times.
+
+Word: Shankle
+Paragraph: 1
+Sentence: 3
+Shankle appears 6 times.
+
+Word: Shankle
+Paragraph: 4
+Sentence: 18
+Shankle appears 6 times.
+
+Word: Shankle
+Paragraph: 4
+Sentence: 22
+Shankle appears 6 times.
+
+Word: Shankle
+Paragraph: 8
+Sentence: 43
+Shankle appears 6 times.
+
+Word: Shankle
+Paragraph: 9
+Sentence: 47
+Shankle appears 6 times.
+
+Word: Shankle
+Paragraph: 10
+Sentence: 55
+Shankle appears 6 times.
+
+Word: Short
+Paragraph: 1
+Sentence: 5
+Short appears 7 times.
+
+Word: Short
+Paragraph: 2
+Sentence: 7
+Short appears 7 times.
+
+Word: Short
+Paragraph: 2
+Sentence: 10
+Short appears 7 times.
+
+Word: Short
+Paragraph: 5
+Sentence: 28
+Short appears 7 times.
+
+Word: Short
+Paragraph: 7
+Sentence: 34
+Short appears 7 times.
+
+Word: Short
+Paragraph: 7
+Sentence: 37
+Short appears 7 times.
+
+Word: Short
+Paragraph: 8
+Sentence: 42
+Short appears 7 times.
+
+Word: Shoulder
+Paragraph: 2
+Sentence: 8
+Shoulder appears 6 times.
+
+Word: Shoulder
+Paragraph: 3
+Sentence: 14
+Shoulder appears 6 times.
+
+Word: Shoulder
+Paragraph: 4
+Sentence: 22
+Shoulder appears 6 times.
+
+Word: Shoulder
+Paragraph: 4
+Sentence: 24
+Shoulder appears 6 times.
+
+Word: Shoulder
+Paragraph: 7
+Sentence: 34
+Shoulder appears 6 times.
+
+Word: Shoulder
+Paragraph: 9
+Sentence: 47
+Shoulder appears 6 times.
+
+Word: Sint
+Paragraph: 7
+Sentence: 37
+Sint appears 5 times.
+
+Word: Sint
+Paragraph: 7
+Sentence: 38
+Sint appears 5 times.
+
+Word: Sint
+Paragraph: 8
+Sentence: 42
+Sint appears 5 times.
+
+Word: Sint
+Paragraph: 8
+Sentence: 43
+Sint appears 5 times.
+
+Word: Sint
+Paragraph: 10
+Sentence: 50
+Sint appears 5 times.
+
+Word: Sirloin
+Paragraph: 3
+Sentence: 14
+Sirloin appears 3 times.
+
+Word: Sirloin
+Paragraph: 5
+Sentence: 28
+Sirloin appears 3 times.
+
+Word: Sirloin
+Paragraph: 8
+Sentence: 44
+Sirloin appears 3 times.
+
+Word: Sit
+Paragraph: 1
+Sentence: 1
+Sit appears 1 times.
+
+Word: Spare
+Paragraph: 1
+Sentence: 4
+Spare appears 8 times.
+
+Word: Spare
+Paragraph: 1
+Sentence: 5
+Spare appears 8 times.
+
+Word: Spare
+Paragraph: 4
+Sentence: 18
+Spare appears 8 times.
+
+Word: Spare
+Paragraph: 4
+Sentence: 21
+Spare appears 8 times.
+
+Word: Spare
+Paragraph: 7
+Sentence: 35
+Spare appears 8 times.
+
+Word: Spare
+Paragraph: 8
+Sentence: 42
+Spare appears 8 times.
+
+Word: Spare
+Paragraph: 9
+Sentence: 46
+Spare appears 8 times.
+
+Word: Spare
+Paragraph: 10
+Sentence: 55
+Spare appears 8 times.
+
+Word: Steak
+Paragraph: 1
+Sentence: 1
+Steak appears 3 times.
+
+Word: Steak
+Paragraph: 6
+Sentence: 33
+Steak appears 3 times.
+
+Word: Steak
+Paragraph: 8
+Sentence: 42
+Steak appears 3 times.
+
+Word: Strip
+Paragraph: 1
+Sentence: 1
+Strip appears 3 times.
+
+Word: Strip
+Paragraph: 6
+Sentence: 33
+Strip appears 3 times.
+
+Word: Strip
+Paragraph: 8
+Sentence: 42
+Strip appears 3 times.
+
+Word: Sunt
+Paragraph: 8
+Sentence: 42
+Sunt appears 4 times.
+
+Word: Sunt
+Paragraph: 10
+Sentence: 50
+Sunt appears 4 times.
+
+Word: Sunt
+Paragraph: 10
+Sentence: 52
+Sunt appears 4 times.
+
+Word: Sunt
+Paragraph: 10
+Sentence: 53
+Sunt appears 4 times.
+
+Word: Swine
+Paragraph: 1
+Sentence: 1
+Swine appears 4 times.
+
+Word: Swine
+Paragraph: 4
+Sentence: 20
+Swine appears 4 times.
+
+Word: Swine
+Paragraph: 5
+Sentence: 25
+Swine appears 4 times.
+
+Word: Swine
+Paragraph: 9
+Sentence: 49
+Swine appears 4 times.
+
+Word: T-bone
+Paragraph: 4
+Sentence: 22
+T-bone appears 6 times.
+
+Word: T-bone
+Paragraph: 6
+Sentence: 32
+T-bone appears 6 times.
+
+Word: T-bone
+Paragraph: 7
+Sentence: 37
+T-bone appears 6 times.
+
+Word: T-bone
+Paragraph: 8
+Sentence: 41
+T-bone appears 6 times.
+
+Word: T-bone
+Paragraph: 8
+Sentence: 44
+T-bone appears 6 times.
+
+Word: T-bone
+Paragraph: 9
+Sentence: 46
+T-bone appears 6 times.
+
+Word: Tail
+Paragraph: 1
+Sentence: 2
+Tail appears 5 times.
+
+Word: Tail
+Paragraph: 2
+Sentence: 6
+Tail appears 5 times.
+
+Word: Tail
+Paragraph: 7
+Sentence: 40
+Tail appears 5 times.
+
+Word: Tail
+Paragraph: 9
+Sentence: 49
+Tail appears 5 times.
+
+Word: Tail
+Paragraph: 10
+Sentence: 55
+Tail appears 5 times.
+
+Word: Tempor
+Paragraph: 1
+Sentence: 3
+Tempor appears 5 times.
+
+Word: Tempor
+Paragraph: 2
+Sentence: 8
+Tempor appears 5 times.
+
+Word: Tempor
+Paragraph: 3
+Sentence: 17
+Tempor appears 5 times.
+
+Word: Tempor
+Paragraph: 7
+Sentence: 36
+Tempor appears 5 times.
+
+Word: Tempor
+Paragraph: 7
+Sentence: 37
+Tempor appears 5 times.
+
+Word: Tenderloin
+Paragraph: 1
+Sentence: 4
+Tenderloin appears 6 times.
+
+Word: Tenderloin
+Paragraph: 4
+Sentence: 18
+Tenderloin appears 6 times.
+
+Word: Tenderloin
+Paragraph: 4
+Sentence: 21
+Tenderloin appears 6 times.
+
+Word: Tenderloin
+Paragraph: 7
+Sentence: 39
+Tenderloin appears 6 times.
+
+Word: Tenderloin
+Paragraph: 8
+Sentence: 42
+Tenderloin appears 6 times.
+
+Word: Tenderloin
+Paragraph: 8
+Sentence: 43
+Tenderloin appears 6 times.
+
+Word: Tip
+Paragraph: 2
+Sentence: 9
+Tip appears 6 times.
+
+Word: Tip
+Paragraph: 4
+Sentence: 23
+Tip appears 6 times.
+
+Word: Tip
+Paragraph: 4
+Sentence: 24
+Tip appears 6 times.
+
+Word: Tip
+Paragraph: 10
+Sentence: 50
+Tip appears 6 times.
+
+Word: Tip
+Paragraph: 10
+Sentence: 53
+Tip appears 6 times.
+
+Word: Tip
+Paragraph: 10
+Sentence: 56
+Tip appears 6 times.
+
+Word: Tongue
+Paragraph: 1
+Sentence: 3
+Tongue appears 7 times.
+
+Word: Tongue
+Paragraph: 1
+Sentence: 5
+Tongue appears 7 times.
+
+Word: Tongue
+Paragraph: 2
+Sentence: 7
+Tongue appears 7 times.
+
+Word: Tongue
+Paragraph: 2
+Sentence: 10
+Tongue appears 7 times.
+
+Word: Tongue
+Paragraph: 3
+Sentence: 12
+Tongue appears 7 times.
+
+Word: Tongue
+Paragraph: 8
+Sentence: 44
+Tongue appears 7 times.
+
+Word: Tongue
+Paragraph: 10
+Sentence: 53
+Tongue appears 7 times.
+
+Word: Tri-tip
+Paragraph: 2
+Sentence: 6
+Tri-tip appears 5 times.
+
+Word: Tri-tip
+Paragraph: 2
+Sentence: 8
+Tri-tip appears 5 times.
+
+Word: Tri-tip
+Paragraph: 3
+Sentence: 15
+Tri-tip appears 5 times.
+
+Word: Tri-tip
+Paragraph: 6
+Sentence: 30
+Tri-tip appears 5 times.
+
+Word: Tri-tip
+Paragraph: 8
+Sentence: 42
+Tri-tip appears 5 times.
+
+Word: Turducken
+Paragraph: 1
+Sentence: 3
+Turducken appears 3 times.
+
+Word: Turducken
+Paragraph: 2
+Sentence: 6
+Turducken appears 3 times.
+
+Word: Turducken
+Paragraph: 7
+Sentence: 39
+Turducken appears 3 times.
+
+Word: Turkey
+Paragraph: 2
+Sentence: 7
+Turkey appears 6 times.
+
+Word: Turkey
+Paragraph: 2
+Sentence: 10
+Turkey appears 6 times.
+
+Word: Turkey
+Paragraph: 7
+Sentence: 36
+Turkey appears 6 times.
+
+Word: Turkey
+Paragraph: 8
+Sentence: 42
+Turkey appears 6 times.
+
+Word: Turkey
+Paragraph: 8
+Sentence: 44
+Turkey appears 6 times.
+
+Word: Turkey
+Paragraph: 10
+Sentence: 50
+Turkey appears 6 times.
+
+Word: Ullamco
+Paragraph: 7
+Sentence: 35
+Ullamco appears 5 times.
+
+Word: Ullamco
+Paragraph: 7
+Sentence: 36
+Ullamco appears 5 times.
+
+Word: Ullamco
+Paragraph: 7
+Sentence: 40
+Ullamco appears 5 times.
+
+Word: Ullamco
+Paragraph: 10
+Sentence: 52
+Ullamco appears 5 times.
+
+Word: Ullamco
+Paragraph: 10
+Sentence: 54
+Ullamco appears 5 times.
+
+Word: Ut
+Paragraph: 1
+Sentence: 2
+Ut appears 13 times.
+
+Word: Ut
+Paragraph: 1
+Sentence: 3
+Ut appears 13 times.
+
+Word: Ut
+Paragraph: 3
+Sentence: 13
+Ut appears 13 times.
+
+Word: Ut
+Paragraph: 4
+Sentence: 19
+Ut appears 13 times.
+
+Word: Ut
+Paragraph: 4
+Sentence: 22
+Ut appears 13 times.
+
+Word: Ut
+Paragraph: 5
+Sentence: 25
+Ut appears 13 times.
+
+Word: Ut
+Paragraph: 5
+Sentence: 28
+Ut appears 13 times.
+
+Word: Ut
+Paragraph: 6
+Sentence: 32
+Ut appears 13 times.
+
+Word: Ut
+Paragraph: 7
+Sentence: 34
+Ut appears 13 times.
+
+Word: Ut
+Paragraph: 7
+Sentence: 37
+Ut appears 13 times.
+
+Word: Ut
+Paragraph: 8
+Sentence: 41
+Ut appears 13 times.
+
+Word: Ut
+Paragraph: 8
+Sentence: 41
+Ut appears 13 times.
+
+Word: Ut
+Paragraph: 8
+Sentence: 43
+Ut appears 13 times.
+
+Word: Velit
+Paragraph: 1
+Sentence: 5
+Velit appears 3 times.
+
+Word: Velit
+Paragraph: 4
+Sentence: 18
+Velit appears 3 times.
+
+Word: Velit
+Paragraph: 8
+Sentence: 42
+Velit appears 3 times.
+
+Word: Veniam
+Paragraph: 4
+Sentence: 18
+Veniam appears 5 times.
+
+Word: Veniam
+Paragraph: 6
+Sentence: 31
+Veniam appears 5 times.
+
+Word: Veniam
+Paragraph: 8
+Sentence: 44
+Veniam appears 5 times.
+
+Word: Veniam
+Paragraph: 10
+Sentence: 50
+Veniam appears 5 times.
+
+Word: Veniam
+Paragraph: 10
+Sentence: 51
+Veniam appears 5 times.
+
+Word: Venison
+Paragraph: 7
+Sentence: 34
+Venison appears 2 times.
+
+Word: Venison
+Paragraph: 7
+Sentence: 36
+Venison appears 2 times.
+
+Word: Voluptate
+Paragraph: 2
+Sentence: 6
+Voluptate appears 4 times.
+
+Word: Voluptate
+Paragraph: 6
+Sentence: 29
+Voluptate appears 4 times.
+
+Word: Voluptate
+Paragraph: 7
+Sentence: 36
+Voluptate appears 4 times.
+
+Word: Voluptate
+Paragraph: 8
+Sentence: 42
+Voluptate appears 4 times.
+

@@ -1,0 +1,10 @@
+catch(...) is a general catch all
+
+Ternary operator
+	x = a > b ? a : b
+	"If a>b, then x=a. Else x=b."
+
+FIX ISSUE WITH INSERTION OPERATOR in LinkedList class
+Hint for ExtraCredit: Pointers of type void; look at "unions"
+a structure for which all fields occupy the same memory location
+

@@ -1,0 +1,37 @@
+while(!checkdone())
+{
+	if(totalMoves%2)
+	{
+		Find the location of Disk 1
+		moveLeft(location);
+		pegArray[1] = newLocation;
+	}
+	else
+		if(((totalMoves%4)+2)%2)
+		{
+			Find the location of Disk 2
+			moveRight(location);
+			pegArray[2] = newLocation;
+		}
+		else
+		{
+			if( pegArray[disks] != C )
+			{
+				Find the location of Disk lastDisk+1;
+				if(odd)
+					moveLeft();
+				else
+					moveRight();
+				pegArray[lastDisk+1] = newLocation;
+			}
+			else
+			{
+				Find the location of Disk lastDisk-1;
+				if(odd)
+					moveLeft();
+				else
+					moveRight();
+				pegArray[lastDisk-1] = newLocation;
+			}
+		}
+}

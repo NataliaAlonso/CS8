@@ -1,0 +1,27 @@
+Heap
+
+Like a tree, but COMPLETE
+
+In order to move down a level, the entire previous level must be FILLED
+
+Each node is less than its kids, or each node is greater than its kids.
+
+Insert: 
+If inserted note is doesn't conform, (is not greater than its parent or vice versa)
+1) Can be swapped with root, then move all the other parents down
+2) Can be moved up
+
+Re-heapify!
+
+Heap sort
+
+If a heap is implemented as an array, heap can be sorted easily.
+
+For any node in this tree, it is less than its kids.
+
+bitset in C++
+
+bitset<4> mybits; // creats an empty bitset with 4 bits
+
+
+

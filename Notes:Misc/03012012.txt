@@ -1,0 +1,18 @@
+HINT FOR HOMEWORK 1: With only the node being templated, redo the linked list
+HINT FOR HOMEWORK 1: passing type as a parameter C++
+Trick that may help: Pointer of type void -> pointer that can point to anything
+						CANNOT BE DEFERENCED. Must be static casted. 
+						Do with Throw / Catch
+						use typeinfo from C std lib
+						typeid(x) where x is a data type
+
+Stacks
+	First in, last out
+	TOS is -1 if empty, index otherwise
+	push: input
+	pop: output and erase
+	empty
+	full
+	clear
+	roll: take the top element and make the bottom element (eg. in HP calculators, rolling is used to store without taking up new memory location)
+	resize

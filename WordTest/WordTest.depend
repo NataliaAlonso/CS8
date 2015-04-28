@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1337030229 source:c:\users\nat\documents\dropbox\cs8\wordtest\word.cpp
+	"word.h"
+
+1337030229 c:\users\nat\documents\dropbox\cs8\wordtest\word.h
+	<cstdlib>
+	<iostream>
+	<string>
+
+1337030294 source:c:\users\nat\documents\dropbox\cs8\wordtest\main.cpp
+	<iostream>
+	"word.h"
+	<vector>
+	<cstdlib>
+

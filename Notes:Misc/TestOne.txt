@@ -1,0 +1,18 @@
+Test 1
+
+Towers of Hanoi
+
+Board should inherit from stack or queue; this class should solve
+Rods are queues
+
+Stacks and queues will be implemented in linked lists
+
+n >= 3 disks
+
+Queue is priority queue
+
+Extra Credit: GUI - ANY METHOD
+
+while(!end == FULL)
+{
+}

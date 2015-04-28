@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="board.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="190" topLine="447" />
+	</File>
+	<File name="board.h" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="disk.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="366" topLine="55" />
+	</File>
+	<File name="disk.h" open="1" top="0" tabpos="1">
+		<Cursor position="395" topLine="21" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="896" topLine="9" />
+	</File>
+	<File name="mynode.h" open="1" top="0" tabpos="5">
+		<Cursor position="256" topLine="0" />
+	</File>
+	<File name="myqueue.h" open="1" top="0" tabpos="8">
+		<Cursor position="127" topLine="0" />
+	</File>
+	<File name="mystack.h" open="1" top="0" tabpos="6">
+		<Cursor position="127" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

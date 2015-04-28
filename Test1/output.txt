@@ -1,0 +1,35 @@
+Solving for 5 disks.
+
+Disk 1 -> Peg C
+Disk 2 -> Peg B
+Disk 1 -> Peg B
+Disk 3 -> Peg C
+Disk 1 -> Peg A
+Disk 2 -> Peg C
+Disk 1 -> Peg C
+Disk 4 -> Peg B
+Disk 1 -> Peg B
+Disk 2 -> Peg A
+Disk 1 -> Peg A
+Disk 3 -> Peg B
+Disk 1 -> Peg C
+Disk 2 -> Peg B
+Disk 1 -> Peg B
+Disk 5 -> Peg C
+Disk 1 -> Peg A
+Disk 2 -> Peg C
+Disk 1 -> Peg C
+Disk 3 -> Peg A
+Disk 1 -> Peg B
+Disk 2 -> Peg A
+Disk 1 -> Peg A
+Disk 4 -> Peg C
+Disk 1 -> Peg C
+Disk 2 -> Peg B
+Disk 1 -> Peg B
+Disk 3 -> Peg C
+Disk 1 -> Peg A
+Disk 2 -> Peg C
+Disk 1 -> Peg C
+
+Total moves were: 31

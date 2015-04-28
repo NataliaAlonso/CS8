@@ -1,0 +1,28 @@
+SORTS
+
+Other sorts have less memory requirements
+
+Slower sorts use less memory (in place) ??
+Faster sorts use more memory 
+THERE IS A TRADE OFF
+
+Pigeon Hole and Bucket Sort
+	Ranges (ie. 0-20yr, 21-40yr, 40-90yr)
+		Post Office: Zip code 9/00/41
+							  ^  ^  ^
+							  |  |  |
+			Each stands for region, district, local.
+		Phone numbers
+		Social security numbers
+RaidX
+	Dewey decimal
+	
+Hash tables
+	Mapping function which takes my data and maps it to an index
+	Go to index
+		If empty
+			Insert
+		If full (collision)
+			Start walking until there is an empty space
+	Need to make a mathematical formula which minimizes collisions
+	

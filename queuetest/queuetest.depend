@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1334004792 source:c:\users\natalia alonso\desktop\queuetest\main.cpp
+	<iostream>
+	"myqueue.h"
+
+1333935089 c:\users\natalia alonso\desktop\queuetest\myqueue.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"mynode.h"
+
+1333911918 c:\users\natalia alonso\desktop\queuetest\mynode.h
+

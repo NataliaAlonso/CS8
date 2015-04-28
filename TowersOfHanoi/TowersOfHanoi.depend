@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1333902204 source:c:\users\nat\documents\dropbox\cs8\towersofhanoi\disk.cpp
+	"disk.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1333902172 c:\users\nat\documents\dropbox\cs8\towersofhanoi\disk.h
+	<fstream>
+	<cstdlib>
+
+1333911039 source:c:\users\nat\documents\dropbox\cs8\towersofhanoi\main.cpp
+	<iostream>
+	<ctime>
+	"Disk.h"
+	"Board.h"
+
+1333910729 c:\users\nat\documents\dropbox\cs8\towersofhanoi\board.h
+	"Disk.h"
+	"mystack.h"
+	"myqueue.h"
+	<fstream>
+	<cstdlib>
+
+1333909792 c:\users\nat\documents\dropbox\cs8\towersofhanoi\myqueue.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"mynode.h"
+
+1333910168 c:\users\nat\documents\dropbox\cs8\towersofhanoi\mynode.h
+
+1333851914 c:\users\nat\documents\dropbox\cs8\towersofhanoi\mystack.h
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	"mynode.h"
+
+1333911039 source:c:\users\nat\documents\dropbox\cs8\towersofhanoi\board.cpp
+	"board.h"
+	"Disk.h"
+	<iostream>
+	"mystack.h"
+	"myqueue.h"
+	<cmath>
+	<fstream>
+	<cstdlib>
+
+1333902204 source:c:\users\natalia alonso\dropbox\cs8\towersofhanoi\disk.cpp
+	"disk.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1333902172 c:\users\natalia alonso\dropbox\cs8\towersofhanoi\disk.h
+	<fstream>
+	<cstdlib>
+
+1333911039 source:c:\users\natalia alonso\dropbox\cs8\towersofhanoi\main.cpp
+	<iostream>
+	<ctime>
+	"Disk.h"
+	"Board.h"
+
+1333910729 c:\users\natalia alonso\dropbox\cs8\towersofhanoi\board.h
+	"Disk.h"
+	"mystack.h"
+	"myqueue.h"
+	<fstream>
+	<cstdlib>
+
+1333851914 c:\users\natalia alonso\dropbox\cs8\towersofhanoi\mystack.h
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	"mynode.h"
+
+1333910168 c:\users\natalia alonso\dropbox\cs8\towersofhanoi\mynode.h
+
+1333909792 c:\users\natalia alonso\dropbox\cs8\towersofhanoi\myqueue.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"mynode.h"
+
+1333911039 source:c:\users\natalia alonso\dropbox\cs8\towersofhanoi\board.cpp
+	"board.h"
+	"Disk.h"
+	<iostream>
+	"mystack.h"
+	"myqueue.h"
+	<cmath>
+	<fstream>
+	<cstdlib>
+

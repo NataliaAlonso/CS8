@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="fraction.cpp" open="1" top="0" tabpos="13">
+		<Cursor position="104" topLine="0" />
+	</File>
+	<File name="fraction.h" open="1" top="1" tabpos="14">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="mixed.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="6273" topLine="0" />
+	</File>
+	<File name="mixed.h" open="1" top="0" tabpos="10">
+		<Cursor position="686" topLine="0" />
+	</File>
+	<File name="mynode.h" open="1" top="0" tabpos="11">
+		<Cursor position="885" topLine="19" />
+	</File>
+	<File name="myqueue.h" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="mystack.h" open="1" top="0" tabpos="3">
+		<Cursor position="1216" topLine="30" />
+	</File>
+	<File name="parser.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="189" topLine="0" />
+	</File>
+	<File name="parser.h" open="1" top="0" tabpos="1">
+		<Cursor position="844" topLine="0" />
+	</File>
+	<File name="queueparser.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="6790" topLine="0" />
+	</File>
+	<File name="queueparser.h" open="1" top="0" tabpos="8">
+		<Cursor position="373" topLine="0" />
+	</File>
+	<File name="stackparser.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="5828" topLine="0" />
+	</File>
+	<File name="stackparser.h" open="1" top="0" tabpos="6">
+		<Cursor position="150" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

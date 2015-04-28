@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1333817461 source:c:\users\natalia alonso\dropbox\cs8\03082012\notemplate\towersofhanoi\main.cpp
+	<iostream>
+	<ctime>
+	"Disk.h"
+	"Board.h"
+
+1333687645 source:c:\users\natalia alonso\dropbox\cs8\03082012\notemplate\towersofhanoi\disk.cpp
+	"disk.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1333685844 c:\users\natalia alonso\dropbox\cs8\03082012\notemplate\towersofhanoi\disk.h
+	<fstream>
+	<cstdlib>
+
+1333823746 c:\users\natalia alonso\dropbox\cs8\03082012\notemplate\towersofhanoi\board.h
+	"Disk.h"
+	"mystack.h"
+	<fstream>
+	<cstdlib>
+
+1333823104 source:c:\users\natalia alonso\dropbox\cs8\03082012\notemplate\towersofhanoi\board.cpp
+	"board.h"
+	"Disk.h"
+	<iostream>
+	"mystack.h"
+	<cmath>
+	<fstream>
+
+1333902204 source:c:\users\nat\documents\dropbox\cs8\03082012\notemplate\towersofhanoi\disk.cpp
+	"disk.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1333902172 c:\users\nat\documents\dropbox\cs8\03082012\notemplate\towersofhanoi\disk.h
+	<fstream>
+	<cstdlib>
+
+1333910087 source:c:\users\nat\documents\dropbox\cs8\03082012\notemplate\towersofhanoi\main.cpp
+	<iostream>
+	<ctime>
+	"Disk.h"
+	"Board.h"
+
+1333910312 c:\users\nat\documents\dropbox\cs8\03082012\notemplate\towersofhanoi\board.h
+	"Disk.h"
+	"mystack.h"
+	"myqueue.h"
+	<fstream>
+	<cstdlib>
+
+1333910331 source:c:\users\nat\documents\dropbox\cs8\03082012\notemplate\towersofhanoi\board.cpp
+	"board.h"
+	"Disk.h"
+	<iostream>
+	"mystack.h"
+	"myqueue.h"
+	<cmath>
+	<fstream>
+
+1333820938 c:\users\natalia alonso\dropbox\cs8\03082012\notemplate\towersofhanoi\stack.h
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	"TNode.h"
+
+1333820498 c:\users\natalia alonso\dropbox\cs8\03082012\notemplate\towersofhanoi\tnode.h
+	<cstdlib>
+	<iostream>
+
+1333823987 c:\users\natalia alonso\dropbox\cs8\03082012\notemplate\towersofhanoi\mystack.h
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	"mynode.h"
+
+1331222305 c:\users\natalia alonso\dropbox\cs8\03082012\notemplate\towersofhanoi\mynode.h
+
+1333851914 c:\users\nat\documents\dropbox\cs8\03082012\notemplate\towersofhanoi\mystack.h
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	"mynode.h"
+
+1333910168 c:\users\nat\documents\dropbox\cs8\03082012\notemplate\towersofhanoi\mynode.h
+
+1333909792 c:\users\nat\documents\dropbox\cs8\03082012\notemplate\towersofhanoi\myqueue.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"mynode.h"
+

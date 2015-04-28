@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1337547380 source:c:\users\nat\documents\dropbox\cs8\exam2\word.cpp
+	"word.h"
+
+1337547484 c:\users\nat\documents\dropbox\cs8\exam2\word.h
+	<cstdlib>
+	<iostream>
+	<string>
+
+1337555053 source:c:\users\nat\documents\dropbox\cs8\exam2\main.cpp
+	"unique.h"
+	<iostream>
+	<cstdlib>
+	<map>
+	<string>
+	<vector>
+	<stack>
+	<fstream>
+	<cstring>
+	"word.h"
+	"tree.h"
+	"myheap.h"
+
+1337557734 c:\users\nat\documents\dropbox\cs8\exam2\unique.h
+	<iostream>
+	<cstdlib>
+	<map>
+	<string>
+	<vector>
+	<iomanip>
+	<fstream>
+	"tree.h"
+	"word.h"
+	"myheap.h"
+
+1337221464 c:\users\nat\documents\dropbox\cs8\exam2\tree.h
+	"mynode.h"
+	<vector>
+	<fstream>
+
+1337215513 c:\users\nat\documents\dropbox\cs8\exam2\mynode.h
+	<vector>
+	<cstdlib>
+	<iostream>
+
+1337222104 c:\users\nat\documents\dropbox\cs8\exam2\myheap.h
+	"mynode.h"
+	<vector>
+	<fstream>
+
+1337727228 source:c:\users\natalia alonso\dropbox\cs8\exam2\word.cpp
+	"word.h"
+
+1337724883 c:\users\natalia alonso\dropbox\cs8\exam2\word.h
+	<cstdlib>
+	<iostream>
+	<string>
+
+1337727112 source:c:\users\natalia alonso\dropbox\cs8\exam2\main.cpp
+	"unique.h"
+	<iostream>
+	<cstdlib>
+	<map>
+	<string>
+	<vector>
+	<stack>
+	<fstream>
+	<cstring>
+	"word.h"
+	"tree.h"
+	"myheap.h"
+
+1337726866 c:\users\natalia alonso\dropbox\cs8\exam2\unique.h
+	<iostream>
+	<cstdlib>
+	<map>
+	<string>
+	<vector>
+	<iomanip>
+	<fstream>
+	"tree.h"
+	"word.h"
+	"myheap.h"
+
+1337726617 c:\users\natalia alonso\dropbox\cs8\exam2\tree.h
+	"mynode.h"
+	<vector>
+	<fstream>
+
+1337645820 c:\users\natalia alonso\dropbox\cs8\exam2\mynode.h
+	<vector>
+	<cstdlib>
+	<iostream>
+
+1337727228 c:\users\natalia alonso\dropbox\cs8\exam2\myheap.h
+	"mynode.h"
+	<vector>
+	<fstream>
+

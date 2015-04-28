@@ -1,0 +1,50 @@
+Top Ten Words Used
+
+           Word: Quantity
+
+           Pork: 19
+
+           Ribs: 16
+
+             Ut: 13
+
+           Beef: 11
+
+    Frankfurter: 9
+
+            Est: 8
+
+         Aliqua: 7
+
+           Aute: 6
+
+             Ad: 5
+
+      Andouille: 4
+
+Number of words beginning with each letter of the alphabet: 
+
+         Letter: Quantity
+
+              A: 37
+              B: 44
+              C: 50
+              D: 30
+              E: 56
+              F: 30
+              G: 5
+              H: 19
+              I: 19
+              J: 10
+              K: 5
+              L: 21
+              M: 24
+              N: 19
+              O: 12
+              P: 40
+              Q: 9
+              R: 32
+              S: 66
+              T: 49
+              U: 18
+              V: 14

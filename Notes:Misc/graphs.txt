@@ -1,0 +1,11 @@
+GRAPHS
+
+There is an issue with using adjacency tables:
+	There is a lot of empty space in the array
+	INSTEAD! We will use an array of vectors
+		Implementing a sparce matrix
+	
+Test 3	
+	How to sort without sorting
+	Preorder, postorder, inorder traversals
+	Recreating trees from output

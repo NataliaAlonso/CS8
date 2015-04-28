@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="dlinkedlist.h" open="1" top="1" tabpos="6">
+		<Cursor position="1267" topLine="36" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="859" topLine="22" />
+	</File>
+	<File name="node.h" open="1" top="0" tabpos="7">
+		<Cursor position="1404" topLine="19" />
+	</File>
+</CodeBlocks_layout_file>

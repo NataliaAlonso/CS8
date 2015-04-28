@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1339097971 source:c:\users\natalia alonso\dropbox\cs8\dlinkedlist\main.cpp
+	<cstdlib>
+	<iostream>
+	"driver.h"
+	"dlinkedlist.h"
+
+1339098094 c:\users\natalia alonso\dropbox\cs8\dlinkedlist\driver.h
+	<cstdlib>
+	<iostream>
+	"dlinkedlist.h"
+	<string>
+	<fstream>
+	<cstring>
+
+1339100317 c:\users\natalia alonso\dropbox\cs8\dlinkedlist\dlinkedlist.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	"node.h"
+
+1331673976 c:\users\natalia alonso\dropbox\cs8\dlinkedlist\node.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+
+1332444024 source:c:\users\natalia alonso\dropbox\cs8\dlinkedlist\driver.cpp
+	"driver.h"
+
+1339124199 source:c:\users\nat\documents\dropbox\cs8\dlinkedlist\main.cpp
+	<cstdlib>
+	<iostream>
+	"driver.h"
+	"dlinkedlist.h"
+
+1339122187 c:\users\nat\documents\dropbox\cs8\dlinkedlist\driver.h
+	<cstdlib>
+	<iostream>
+	"dlinkedlist.h"
+	<string>
+	<fstream>
+	<cstring>
+
+1339124685 c:\users\nat\documents\dropbox\cs8\dlinkedlist\dlinkedlist.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	"node.h"
+
+1331673976 c:\users\nat\documents\dropbox\cs8\dlinkedlist\node.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+
+1332444024 source:c:\users\nat\documents\dropbox\cs8\dlinkedlist\driver.cpp
+	"driver.h"
+

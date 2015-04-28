@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1339207556 source:c:\users\nat\documents\dropbox\cs8\expressiontree\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<stdexcept>
+	"parser.h"
+	"mixed.h"
+	"fraction.h"
+	"tree.h"
+
+1328063337 c:\users\nat\documents\dropbox\cs8\expressiontree\parser.h
+	<vector>
+	<string>
+	<iostream>
+	<cstdlib>
+	<stack>
+
+1338929260 c:\users\nat\documents\dropbox\cs8\expressiontree\stackparser.h
+	<string>
+	<iostream>
+	<cstdlib>
+	"mystack.h"
+
+1339120460 c:\users\nat\documents\dropbox\cs8\expressiontree\mystack.h
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	"mynode.h"
+
+1339120460 c:\users\nat\documents\dropbox\cs8\expressiontree\mynode.h
+
+1338927440 c:\users\nat\documents\dropbox\cs8\expressiontree\queueparser.h
+	<string>
+	<iostream>
+	<cstdlib>
+	"myqueue.h"
+
+1339120460 c:\users\nat\documents\dropbox\cs8\expressiontree\myqueue.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"mynode.h"
+
+1338934038 c:\users\nat\documents\dropbox\cs8\expressiontree\mixed.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<fstream>
+	"fraction.h"
+
+1328054111 c:\users\nat\documents\dropbox\cs8\expressiontree\fraction.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+
+1338934086 source:c:\users\nat\documents\dropbox\cs8\expressiontree\mixed.cpp
+	"mixed.h"
+	"fraction.h"
+	<cmath>
+
+1330013031 source:c:\users\nat\documents\dropbox\cs8\expressiontree\parser.cpp
+	"parser.h"
+
+1328064398 source:c:\users\nat\documents\dropbox\cs8\expressiontree\fraction.cpp
+	"fraction.h"
+
+1339211263 c:\users\nat\documents\dropbox\cs8\expressiontree\tree.h
+	"node.h"
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1339207438 c:\users\nat\documents\dropbox\cs8\expressiontree\node.h
+	<cstdlib>
+

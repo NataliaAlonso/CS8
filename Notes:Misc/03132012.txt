@@ -1,0 +1,11 @@
+HOMEWORK HINT: 	Create purely virtual access function in linkedList that takes void pointer as parameter
+				Force user to write access function which TYPECASTS void pointer
+
+DOUBLY LINKED LIST
+Deque: a queue in which you can enqueue or dequeue from either end 
+Circular: Ends always point to something
+
+zyxwvutsrqponmlkjihgfedcba
+abcdefghijklmnopqrstuvwxyz
+
+DIRECTION& printDirection(); //This is written by reference so that it can be used as an accessor and mutator

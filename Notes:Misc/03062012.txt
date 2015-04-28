@@ -1,0 +1,12 @@
+STACK
+Fix:	Read/write files
+		Check error messages
+
+QUEUES
+Queue is always fixed length
+First-in, first-out
+BQ, EQ: Indices for end-of-queue and beginning-of-queue
+BQ is where you dequeue
+EQ is where you enqueue
+Fix:	[] overload
+

@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1337644836 source:c:\users\natalia alonso\dropbox\cs8\theeditorsdream\main.cpp
+	<fstream>
+	<string>
+	<iostream>
+	"tree.h"
+	"myheap.h"
+	"word.h"
+	<cstdlib>
+
+1337644836 source:c:\users\nat\documents\dropbox\cs8\theeditorsdream\main.cpp
+	<fstream>
+	<string>
+	<iostream>
+	"tree.h"
+	"myheap.h"
+	"word.h"
+	<cstdlib>
+
+1337646965 c:\users\nat\documents\dropbox\cs8\theeditorsdream\tree.h
+	"mynode.h"
+	<vector>
+	<fstream>
+
+1337645820 c:\users\nat\documents\dropbox\cs8\theeditorsdream\mynode.h
+	<vector>
+	<cstdlib>
+	<iostream>
+
+1337056513 source:c:\users\nat\documents\dropbox\cs8\theeditorsdream\word.cpp
+	"word.h"
+
+1337030229 c:\users\nat\documents\dropbox\cs8\theeditorsdream\word.h
+	<cstdlib>
+	<iostream>
+	<string>
+
+1337644756 c:\users\nat\documents\dropbox\cs8\theeditorsdream\myheap.h
+	"mynode.h"
+	<vector>
+	<fstream>
+
+1337056513 source:c:\users\natalia alonso\dropbox\cs8\theeditorsdream\word.cpp
+	"word.h"
+
+1337030229 c:\users\natalia alonso\dropbox\cs8\theeditorsdream\word.h
+	<cstdlib>
+	<iostream>
+	<string>
+
+1337650635 c:\users\natalia alonso\dropbox\cs8\theeditorsdream\tree.h
+	"mynode.h"
+	<vector>
+	<fstream>
+
+1337645820 c:\users\natalia alonso\dropbox\cs8\theeditorsdream\mynode.h
+	<vector>
+	<cstdlib>
+	<iostream>
+
+1337644756 c:\users\natalia alonso\dropbox\cs8\theeditorsdream\myheap.h
+	"mynode.h"
+	<vector>
+	<fstream>
+

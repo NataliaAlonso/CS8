@@ -1,0 +1,18 @@
+Reading level:
+	The Flesch Formula: Reading Ease and Grade Level
+	The Flesch Formula is a more accurate method for measuring the readability of upper elementary texts.
+	Select a 100-word sample and count the number of sentences.
+	Divide the number of words (100) by the number of sentences and multiply the result by 1.015. Save this result and call it x.
+	Count the total number of syllables in the sample, divide by the total number of words (100) and multiply by 84.6 (Or just multiply the number of syllables by 0.846 — the results will be the same). Call this number y.
+	Add x to y and subtract the sum from 206.835. The final result is the Reading Ease Score (see table).
+
+	Gunning Fog Index
+	The Gunning Fog method is used to determine the readability for upper elementary reading material. Apply the following steps (you may want to use a calculator), and refer to the example for help.
+	Select a sample of 100 words and count the number of sentences in the sample.
+	Divide the number of sentences into the number of words (100) to find the average sentence length.
+	Count the number of “big words” (3 syllables or more) and divide 100 by that number to find the percentage of big words (This is easily done by adding a decimal point two digits before the number).
+	Add the average sentence length and percentage of big words together and multiply the sum by 0.4 to find the result.
+	
+For heap:
+	NO COUNTS
+	Every single word and position has its own node

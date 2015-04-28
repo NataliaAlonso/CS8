@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1339198798 source:c:\users\nat\documents\dropbox\cs8\slinkedlist\main.cpp
+	"linkedList.h"
+
+1339199535 c:\users\nat\documents\dropbox\cs8\slinkedlist\linkedlist.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	"node.h"
+
+1339196963 c:\users\nat\documents\dropbox\cs8\slinkedlist\node.h
+

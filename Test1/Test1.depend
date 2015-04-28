@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1334094297 source:c:\users\natalia alonso\desktop\test1\disk.cpp
+	"disk.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1334094226 c:\users\natalia alonso\desktop\test1\disk.h
+	<fstream>
+	<cstdlib>
+
+1334094924 source:c:\users\natalia alonso\desktop\test1\main.cpp
+	<iostream>
+	<ctime>
+	"disk.h"
+	"board.h"
+
+1334009853 c:\users\natalia alonso\desktop\test1\board.h
+	"Disk.h"
+	"mystack.h"
+	"myqueue.h"
+	<fstream>
+	<cstdlib>
+
+1334094226 c:\users\natalia alonso\desktop\test1\mystack.h
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	"mynode.h"
+
+1334094226 c:\users\natalia alonso\desktop\test1\mynode.h
+
+1334093968 source:c:\users\natalia alonso\desktop\test1\board.cpp
+	"board.h"
+	"Disk.h"
+	"mystack.h"
+	"myqueue.h"
+	<cmath>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1334094226 c:\users\natalia alonso\desktop\test1\myqueue.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"mynode.h"
+

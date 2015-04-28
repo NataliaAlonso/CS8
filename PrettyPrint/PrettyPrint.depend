@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1338958956 source:c:\users\nat\documents\dropbox\cs8\prettyprint\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+
+1339026004 source:c:\users\natalia alonso\dropbox\cs8\prettyprint\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+

@@ -1,0 +1,97 @@
+void game::initializeRooms()
+{
+    initializeAboveRooms();
+    initializeBelowRooms();
+    initializeMazeRooms();
+}
+
+void game::initializeAboveRooms()
+{
+    aboveRooms[0] = "West of House";
+    aboveRooms[1] = "North of House";
+    aboveRooms[2] = "Forest Path";
+    aboveRooms[3] = "Up a Tree";
+    aboveRooms[4] = "Behind House";
+    aboveRooms[5] = "Kitchen";
+    aboveRooms[6] = "Living Room";
+    aboveRooms[7] = "Attic";
+    aboveRooms[8] = "Clearing";
+    aboveRooms[9] = "Forest";
+    aboveRooms[10] = "South of House";
+    aboveRooms[11] = "Forest";
+    aboveRooms[12] = "Clearing";
+    aboveRooms[13] = "Forest";
+    aboveRooms[14] = "Forest";
+    aboveRooms[15] = "Canyon View";
+    aboveRooms[16] = "Rocky Ledge";
+    aboveRooms[17] = "Canyon Bottom";
+    aboveRooms[18] = "End of Rainbow";
+    aboveRooms[19] = "Cellar"; //To Cellar
+}
+
+void game::initializeBelowRooms()
+{
+    belowRooms[0] = "Cellar";
+    belowRooms[1] = "Troll Room";
+    belowRooms[2] = "Maze";
+    belowRooms[3] = "East of Chasm";
+    belowRooms[4] = "Kitchen";
+    belowRooms[5] = "Studio";
+    belowRooms[6] = "East-East Passage";
+    belowRooms[7] = "Chasm";
+    belowRooms[8] = "North-South Passage";
+    belowRooms[9] = "Reservoir South";
+    belowRooms[10] = "Deep Canyon";
+    belowRooms[11] = "Dam";
+    belowRooms[12] = "Dam Lobby";
+    belowRooms[13] = "Maintenance Room";
+    belowRooms[14] = "Dam Base";
+    belowRooms[15] = "Stream View";
+    belowRooms[16] = "Round Room";
+    belowRooms[17] = "Loud Room";
+    belowRooms[18] = "Damp Cave";
+    belowRooms[19] = "White Cliffs";
+    belowRooms[20] = "White Cliffs Beach";
+    belowRooms[21] = "Narrow Passage";
+    belowRooms[22] = "Mirror Room";
+    belowRooms[23] = "Winding Passage";
+    belowRooms[24] = "Cave";
+    belowRooms[25] = "Entrance to Hades";
+    belowRooms[26] = "Land of the Dead";
+    belowRooms[27] = "Engraving Cave";
+    belowRooms[28] = "Dome Room";
+    belowRooms[29] = "Torch Room";
+    belowRooms[30] = "Temple";
+    belowRooms[31] = "Egyptian Room";
+    belowRooms[32] = "Altar";
+    belowRooms[33] = "Living Room";
+    belowRooms[34] = "Gallery";
+}
+
+void game::initializeMazeRooms()
+{
+    mazeRooms[0] = "Troll Room";
+    mazeRooms[1] = "Maze Room 1";
+    mazeRooms[2] = "Maze Room 2";
+    mazeRooms[3] = "Maze Room 3";
+    mazeRooms[4] = "Maze Room 4";
+    mazeRooms[5] = "Maze Room 5";
+    mazeRooms[6] = "Maze Room 6";
+    mazeRooms[7] = "Maze Room 7";
+    mazeRooms[8] = "Maze Room 8";
+    mazeRooms[9] = "Maze Room 9";
+    mazeRooms[10] = "Maze Room 10";
+    mazeRooms[11] = "Maze Room 11";
+    mazeRooms[12] = "Maze Room 12";
+    mazeRooms[13] = "Maze Room 13";
+    mazeRooms[14] = "Maze Room 14";
+    mazeRooms[15] = "Maze Room 15";
+    mazeRooms[16] = "Maze Room 16";
+    mazeRooms[17] = "Maze Room 17";
+    mazeRooms[18] = "Maze Room 18";
+    mazeRooms[19] = "Maze Room 19";
+    mazeRooms[20] = "Cyclops Room";
+    mazeRooms[21] = "Treasure Room";
+    mazeRooms[22] = "Strange Passage";
+    mazeRooms[23] = "Living Room"; //To Living Room
+}

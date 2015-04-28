@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1338934442 source:c:\users\natalia alonso\dropbox\cs8\post-fix\post fix\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<stdexcept>
+	"parser.h"
+	"stackParser.h"
+	"queueParser.h"
+	"mixed.h"
+	"fraction.h"
+
+1339021836 c:\users\natalia alonso\dropbox\cs8\post-fix\post fix\parser.h
+	<vector>
+	<string>
+	<iostream>
+	<cstdlib>
+	<stack>
+
+1338929260 c:\users\natalia alonso\dropbox\cs8\post-fix\post fix\stackparser.h
+	<string>
+	<iostream>
+	<cstdlib>
+	"mystack.h"
+
+1339100693 c:\users\natalia alonso\dropbox\cs8\post-fix\post fix\mystack.h
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	"mynode.h"
+
+1334094226 c:\users\natalia alonso\dropbox\cs8\post-fix\post fix\mynode.h
+
+1338927440 c:\users\natalia alonso\dropbox\cs8\post-fix\post fix\queueparser.h
+	<string>
+	<iostream>
+	<cstdlib>
+	"myqueue.h"
+
+1338928325 c:\users\natalia alonso\dropbox\cs8\post-fix\post fix\myqueue.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"mynode.h"
+
+1338934038 c:\users\natalia alonso\dropbox\cs8\post-fix\post fix\mixed.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<fstream>
+	"fraction.h"
+
+1328054111 c:\users\natalia alonso\dropbox\cs8\post-fix\post fix\fraction.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+
+1338934086 source:c:\users\natalia alonso\dropbox\cs8\post-fix\post fix\mixed.cpp
+	"mixed.h"
+	"fraction.h"
+	<cmath>
+
+1330013031 source:c:\users\natalia alonso\dropbox\cs8\post-fix\post fix\parser.cpp
+	"parser.h"
+
+1338928881 source:c:\users\natalia alonso\dropbox\cs8\post-fix\post fix\queueparser.cpp
+	"queueParser.h"
+
+1339101832 source:c:\users\natalia alonso\dropbox\cs8\post-fix\post fix\stackparser.cpp
+	"stackParser.h"
+
+1328064398 source:c:\users\natalia alonso\dropbox\cs8\post-fix\post fix\fraction.cpp
+	"fraction.h"
+
+1338934442 source:c:\users\nat\documents\dropbox\cs8\post-fix\post fix\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<stdexcept>
+	"parser.h"
+	"stackParser.h"
+	"queueParser.h"
+	"mixed.h"
+	"fraction.h"
+
+1328063337 c:\users\nat\documents\dropbox\cs8\post-fix\post fix\parser.h
+	<vector>
+	<string>
+	<iostream>
+	<cstdlib>
+	<stack>
+
+1338929260 c:\users\nat\documents\dropbox\cs8\post-fix\post fix\stackparser.h
+	<string>
+	<iostream>
+	<cstdlib>
+	"mystack.h"
+
+1339100693 c:\users\nat\documents\dropbox\cs8\post-fix\post fix\mystack.h
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	"mynode.h"
+
+1334094226 c:\users\nat\documents\dropbox\cs8\post-fix\post fix\mynode.h
+
+1338927440 c:\users\nat\documents\dropbox\cs8\post-fix\post fix\queueparser.h
+	<string>
+	<iostream>
+	<cstdlib>
+	"myqueue.h"
+
+1339120187 c:\users\nat\documents\dropbox\cs8\post-fix\post fix\myqueue.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"mynode.h"
+
+1338934038 c:\users\nat\documents\dropbox\cs8\post-fix\post fix\mixed.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<fstream>
+	"fraction.h"
+
+1328054111 c:\users\nat\documents\dropbox\cs8\post-fix\post fix\fraction.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+
+1338934086 source:c:\users\nat\documents\dropbox\cs8\post-fix\post fix\mixed.cpp
+	"mixed.h"
+	"fraction.h"
+	<cmath>
+
+1330013031 source:c:\users\nat\documents\dropbox\cs8\post-fix\post fix\parser.cpp
+	"parser.h"
+
+1339120211 source:c:\users\nat\documents\dropbox\cs8\post-fix\post fix\queueparser.cpp
+	"queueParser.h"
+
+1328064398 source:c:\users\nat\documents\dropbox\cs8\post-fix\post fix\fraction.cpp
+	"fraction.h"
+
+1339119233 source:c:\users\nat\documents\dropbox\cs8\post-fix\post fix\stackparser.cpp
+	"stackParser.h"
+

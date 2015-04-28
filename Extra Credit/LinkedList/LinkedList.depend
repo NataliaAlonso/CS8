@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1332214707 source:c:\users\nat\documents\dropbox\cs8\extra credit\linkedlist\main.cpp
+	"myLinkedList.h"
+
+1332214888 c:\users\nat\documents\dropbox\cs8\extra credit\linkedlist\linkedlist.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"node.h"
+
+1331594916 c:\users\nat\documents\dropbox\cs8\extra credit\linkedlist\node.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+
+1332214707 source:c:\users\natalia alonso\dropbox\cs8\extra credit\linkedlist\main.cpp
+	"myLinkedList.h"
+
+1332214888 c:\users\natalia alonso\dropbox\cs8\extra credit\linkedlist\linkedlist.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"node.h"
+
+1331594916 c:\users\natalia alonso\dropbox\cs8\extra credit\linkedlist\node.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+
+1331594723 source:c:\users\nat\documents\dropbox\cs8\extra credit\linkedlist\mylinkedlist.cpp
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"mylinkedlist.h"
+	"linkedList.h"
+
+1332214953 c:\users\nat\documents\dropbox\cs8\extra credit\linkedlist\mylinkedlist.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"node.h"
+	"linkedList.h"
+
+1331594916 source:c:\users\nat\documents\dropbox\cs8\extra credit\linkedlist\node.cpp
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"node.h"
+
+1332214585 source:c:\users\nat\documents\dropbox\cs8\extra credit\linkedlist\linkedlist.cpp
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"linkedList.h"
+
+1332214953 c:\users\natalia alonso\dropbox\cs8\extra credit\linkedlist\mylinkedlist.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"node.h"
+	"linkedList.h"
+
+1331594723 source:c:\users\natalia alonso\dropbox\cs8\extra credit\linkedlist\mylinkedlist.cpp
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"mylinkedlist.h"
+	"linkedList.h"
+
+1331594916 source:c:\users\natalia alonso\dropbox\cs8\extra credit\linkedlist\node.cpp
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"node.h"
+
+1332214585 source:c:\users\natalia alonso\dropbox\cs8\extra credit\linkedlist\linkedlist.cpp
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<typeinfo>
+	"linkedList.h"
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1338813323 source:c:\users\nat\documents\dropbox\cs8\palindrome\palindrome.cpp
+	"palindrome.h"
+	<iostream>
+	"mystack.h"
+	<string>
+	<cstdlib>
+
+1338812691 c:\users\nat\documents\dropbox\cs8\palindrome\palindrome.h
+	<cstdlib>
+	"mystack.h"
+	<string>
+
+1338813503 c:\users\nat\documents\dropbox\cs8\palindrome\mystack.h
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	"mynode.h"
+
+1338813503 c:\users\nat\documents\dropbox\cs8\palindrome\mynode.h
+
+1338813029 source:c:\users\nat\documents\dropbox\cs8\palindrome\main.cpp
+	<iostream>
+	<cstdlib>
+	"mystack.h"
+	<string>
+	"palindrome.h"
+
